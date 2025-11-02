@@ -1,0 +1,18 @@
+{
+  "session_id": "7d99aef467535e46",
+  "user_id": "test_user",
+  "problem": "팀 생산성 개선",
+  "category": "organizational",
+  "method_id": "five_whys",
+  "method_name": "5 WHYS",
+  "current_step": 3,
+  "total_steps": 5,
+  "answers": [
+    "회의가 많아서",
+    "결정을 못해서",
+    "권한이 불명확해서"
+  ],
+  "created_at": "2025-11-02T10:38:14.566509",
+  "updated_at": "2025-11-02T10:38:14.567043",
+  "is_completed": true
+}

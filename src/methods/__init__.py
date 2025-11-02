@@ -1,0 +1,21 @@
+"""
+Thinking Methods Module
+"""
+
+from .templates import (
+    ALL_METHODS,
+    LINEAR_METHODS,
+    INTUITIVE_METHODS,
+    PERSPECTIVE_METHODS,
+    FEEDBACK_METHODS,
+    CATEGORY_MAP
+)
+
+__all__ = [
+    "ALL_METHODS",
+    "LINEAR_METHODS",
+    "INTUITIVE_METHODS",
+    "PERSPECTIVE_METHODS",
+    "FEEDBACK_METHODS",
+    "CATEGORY_MAP"
+]
