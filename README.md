@@ -4,6 +4,7 @@
 
 [![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)](https://modelcontextprotocol.io)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org)
+[![Methodologies](https://img.shields.io/badge/Methodologies-78+-orange)](knowledge/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ## 💡 Why This Exists
@@ -11,7 +12,7 @@
 Most AI tools **give you answers**.
 This MCP **asks you questions** instead.
 
-Like Socrates, it guides you to discover insights through structured questioning - using 58 proven methodologies from business strategy, creative thinking, and critical analysis.
+Like Socrates, it guides you to discover insights through structured questioning - using **78+ proven methodologies** from business strategy, creative thinking, and critical analysis.
 
 ## ✨ What Makes This Different
 
@@ -26,11 +27,22 @@ Like Socrates, it guides you to discover insights through structured questioning
 
 **"I cannot teach anybody anything. I can only make them think." - Socrates**
 
-This MCP implements 58 structured thinking methodologies as **question frameworks**:
+This MCP implements 78+ structured thinking methodologies as **question frameworks**:
 
-- **Strategic Decision-Making** (22 methods): Decision Tree, SWOT, BCG Matrix, Porter's Five Forces, Cost-Benefit, Pre-Mortem, Scenario Planning...
-- **Creative Problem-Solving** (24 methods): SCAMPER, 5 Whys, Six Thinking Hats, TRIZ, Design Thinking...
-- **Critical Thinking** (12 methods): Mental Models Check, Systems Thinking, Second-Order Thinking, Fishbone, Inversion...
+- **Strategic Decision-Making** (30 methods): Decision Tree, SWOT, BCG Matrix, Business Model Canvas, Lean Canvas, Stakeholder Mapping...
+- **Creative Problem-Solving** (30 methods): SCAMPER, Question Storming, TRIZ, Design Thinking, Jobs To Be Done, Liberating Structures...
+- **Critical Thinking** (18 methods): 5 Whys, Cynefin Framework, Socratic Questioning, Systems Thinking, Theory of Constraints...
+
+## 📚 Knowledge Base (RAG-Ready)
+
+**[20 Advanced Methodology Files](knowledge/)** - Detailed methodologies with:
+- Category classification
+- Question sequences
+- Academic sources
+- Best practices
+- Expected outcomes
+
+Perfect for RAG (Retrieval-Augmented Generation) integration!
 
 ## 🚀 Quick Start
 
@@ -49,9 +61,9 @@ pip install -r requirements.txt
     "socratic-thinking": {
       "command": "python",
       "args": ["-m", "src.server"],
-      "cwd": "C:\\Users\\YourName\\Documents\\socratic-thinking-mcp",
+      "cwd": "C:\\\\Users\\\\YourName\\\\Documents\\\\socratic-thinking-mcp",
       "env": {
-        "PYTHONPATH": "C:\\Users\\YourName\\Documents\\socratic-thinking-mcp"
+        "PYTHONPATH": "C:\\\\Users\\\\YourName\\\\Documents\\\\socratic-thinking-mcp"
       }
     }
   }
@@ -75,7 +87,7 @@ Category: Strategic decision-making
 📋 Recommended methodologies:
 1. DECISION TREE - Complex decisions (5 steps)
 2. REGRET MINIMIZATION - Life decisions (3 steps)
-3. COST-BENEFIT ANALYSIS - Investment decisions (4 steps)
+3. LEAN CANVAS - Business model validation (9 steps)
 
 Which method? (1/2/3)
 
@@ -99,69 +111,66 @@ The MCP activates when you use:
 - **Korean**: "씽킹툴", "소크라테스", "생각 정리", "사고 도구"
 - **Context**: Decision-making, strategy, brainstorming, problem-solving
 
-## 📚 58 Methodologies
+## 📚 78+ Methodologies
 
-### 🎯 Strategic & Decision-Making (22)
+### 🎯 Strategic & Decision-Making (30)
 
-**Business Strategy**:
-- SWOT Analysis - Strengths/Weaknesses/Opportunities/Threats
-- BCG Matrix - Portfolio analysis (Star/Cash Cow/Question Mark/Dog)
-- Porter's Five Forces - Industry competition analysis
-- PESTEL - Macro environment (Political/Economic/Social/Tech/Environmental/Legal)
-- Ansoff Matrix - Growth strategies
-- Blue Ocean Strategy - Create uncontested market space
-- Value Chain Analysis - Competitive advantage identification
-- OKR - Objectives & Key Results
+**Business Strategy (8 core + 3 advanced)**:
+- SWOT Analysis, BCG Matrix, Porter's Five Forces
+- PESTEL, Ansoff Matrix, Blue Ocean Strategy
+- Value Chain Analysis, OKR
+- **+ Business Model Canvas, Value Proposition Canvas, Lean Canvas** *(knowledge/)*
 
-**Decision-Making**:
-- Decision Tree - Complex decision mapping
-- Decision Matrix - Weighted scoring
-- Cost-Benefit Analysis - Investment evaluation
-- Pros-Cons-Fixes - Enhanced pros/cons with solutions
-- Regret Minimization (Jeff Bezos) - Long-term life decisions
-- Opportunity Cost - Resource allocation optimization
-- Eisenhower Matrix - Prioritization (Urgent-Important)
+**Decision-Making (7 core + 3 advanced)**:
+- Decision Tree, Decision Matrix, Cost-Benefit Analysis
+- Pros-Cons-Fixes, Regret Minimization, Opportunity Cost
+- Eisenhower Matrix
+- **+ Impact-Effort Matrix, Critical Success Factors, Balanced Scorecard** *(knowledge/)*
 
-**Risk & Scenarios**:
-- Pre-Mortem - Prospective hindsight for risk prevention
-- Scenario Planning - Best/Worst/Most Likely futures
-- Second-Order Thinking - Long-term consequences
+**Risk & Scenarios (3)**:
+- Pre-Mortem, Scenario Planning, Second-Order Thinking
 
-### 🧠 Critical & Systems Thinking (12)
+**Systems & Analysis (4 + 2 advanced)**:
+- Systems Thinking, Mental Models Check, Inversion, Fishbone
+- **+ Stakeholder Mapping, Appreciative Inquiry** *(knowledge/)*
 
-**Causal Analysis**:
-- 5 Whys - Root cause analysis
-- Fishbone Diagram (Ishikawa) - Man/Method/Machine/Material
-- Systems Thinking - Causal loops and leverage points
+### 🧠 Critical & Systems Thinking (18)
 
-**Cognitive Debiasing**:
-- Mental Models Check - Overcome confirmation bias, sunk cost, availability bias
-- Inversion - Backwards thinking to avoid failure
+**Root Cause (3)**:
+- 5 Whys, Phoenix Checklist, Force-Field Analysis
 
-**Analytical**:
-- Phoenix Checklist - Comprehensive problem examination
-- Force-Field Analysis (Tug-of-War) - Driving vs restraining forces
+**Perspective (2 + 1 advanced)**:
+- Six Thinking Hats, Lateral Thinking
+- **+ Socratic Questioning (6 types)** *(knowledge/)*
 
-### 🎨 Creative & Innovation (24)
+**Analysis (7 + 5 advanced)**:
+- Attribute Listing, Morphological Analysis, Fractionation
+- Mind Mapping, Reversal, Lotus Blossom, Future Scenarios
+- **+ Kipling Method (5W1H), Assumption Testing, Cynefin Framework**
+- **+ Theory of Constraints, Causal Loop Diagrams** *(knowledge/)*
 
-**Linear Creative Tools**:
-- SCAMPER - Substitute/Combine/Adapt/Modify/Put to other use/Eliminate/Reverse
-- Attribute Listing (Slice & Dice) - Break down and recombine
-- Morphological Analysis (Idea Box) - Systematic combinations
-- Mind Mapping - Visual connections
-- Lotus Blossom - Idea expansion
+### 🎨 Creative & Innovation (30)
 
-**Intuitive Tools**:
-- Random Stimulation (BruteThink) - Random word associations
-- Analogies - Cross-domain thinking
-- Fantasy Questions (Stone Soup) - "What if" scenarios
-- Dreamscape - Dream analysis for insights
+**Linear Creative (3 + 1 advanced)**:
+- SCAMPER, Design Thinking, TRIZ
+- **+ TRIZ Contradiction Matrix** *(knowledge/)*
 
-**Perspective Shifts**:
-- Six Thinking Hats - White/Red/Black/Yellow/Green/Blue perspectives
-- TRIZ - Inventive problem-solving (40 principles)
-- Design Thinking - Empathize/Define/Ideate/Prototype/Test
-- Lateral Thinking - Break patterns
+**Intuitive (6 + 3 advanced)**:
+- Random Stimulation, Analogies, Fantasy Questions
+- Paradox, Forced Connection, Dreamscape
+- **+ Question Storming, Jobs To Be Done, Thought Experiments** *(knowledge/)*
+
+**Perspective Shift (10 + 2 advanced)**:
+- Intuition, Three B's, Relaxation, Talk to Stranger
+- Pattern Language, Drawing, Hypnagogic Imagery
+- Guided Imagery, Psychosynthesis, Hieroglyphics
+- **+ Liberating Structures (1-2-4-All), Worst Possible Idea** *(knowledge/)*
+
+**Feedback (2)**:
+- Murder Board, Brainstorming
+
+**Additional (3)**:
+- Circle of Opportunity, Idea Grid, Airline Method
 
 ## 🎬 Real-World Examples
 
@@ -193,21 +202,21 @@ A5: Executive program - achieves 70% of goal in 5% of time/cost
 ```
 User: "How can we improve our mobile app?"
 
-MCP recommends: SCAMPER, Design Thinking, Value Chain
-User selects: SCAMPER
+MCP recommends: SCAMPER, Question Storming, Jobs To Be Done
+User selects: Question Storming
 
-Q1: SUBSTITUTE - What can be replaced?
-A1: Replace manual input with AI auto-fill
+Q1: WHAT IS? - What's the current situation?
+A1: Users drop off after 3 days, engagement is low
 
-Q2: COMBINE - What can be merged?
-A2: Combine calendar + task manager
+Q2: WHAT CAUSED? - Root factors?
+A2: Onboarding is confusing, value prop unclear
 
-Q3: ADAPT - What can be adapted from elsewhere?
-A3: Gaming mechanics for engagement (from Duolingo)
+Q3: WHAT IF? - No constraints?
+A3: Personalized AI coach for each user
 
 ... (7 total questions)
 
-Final insight: 15 concrete improvement ideas across 7 dimensions
+Final insight: 50+ questions reframing the problem from multiple angles
 ```
 
 ## 🏗️ Architecture
@@ -220,7 +229,12 @@ socratic-thinking-mcp/
 │   ├── question_engine.py     # Question generation
 │   ├── session.py             # Conversation state management
 │   └── methods/
-│       └── templates.py       # 58 methodology templates
+│       └── templates.py       # 58 core methodology templates
+├── knowledge/                 # 20 advanced methodologies (RAG-ready)
+│   ├── README.md
+│   ├── 01-Question-Storming.md
+│   ├── 02-Kipling-Method.md
+│   └── ... (18 more)
 ├── data/
 │   └── user_sessions/         # Session storage (compressed JSON)
 ├── README.md                  # This file
@@ -234,17 +248,24 @@ socratic-thinking-mcp/
 3. **Methodology Transparency** - Always shows which method is being used
 4. **Progressive Disclosure** - Questions revealed step-by-step
 5. **User Agency** - User chooses methodology, not imposed
+6. **RAG-Ready** - Knowledge base optimized for retrieval
 
 ## 📊 Comparison with Other Tools
 
 | Feature | Socratic Thinking MCP | Sequential Thinking | ChatGPT |
-|---------|---------------------|-------------------|---------|
-| Question-based | ✅ 58 structured frameworks | ✅ General reasoning | ❌ Answer-based |
-| Business Strategy | ✅ SWOT, BCG, Porter, etc. | ❌ | ⚠️ Limited |
+|---------|---------------------|-------------------|---------| 
+| Question-based | ✅ 78+ structured frameworks | ✅ General reasoning | ❌ Answer-based |
+| Business Strategy | ✅ SWOT, BCG, Porter, Canvas | ❌ | ⚠️ Limited |
 | Decision Trees | ✅ Structured 5-step | ❌ | ⚠️ Ad-hoc |
-| Creative Thinking | ✅ SCAMPER, TRIZ, etc. | ❌ | ⚠️ General |
+| Creative Thinking | ✅ SCAMPER, TRIZ, Question Storming | ❌ | ⚠️ General |
 | Methodology Choice | ✅ User selects | ❌ AI-driven | ❌ N/A |
 | Token Efficiency | ✅ 97% compressed | ⚠️ Medium | ❌ Verbose |
+| RAG Integration | ✅ 20 knowledge files | ❌ | ❌ |
+
+## 🔗 Related Projects
+
+- **[Socratic Thinking GPT](https://github.com/seanshin0214/socratic-thinking-gpt)** - ChatGPT GPT version (no coding required)
+- **[QualAI MCP](https://github.com/seanshin0214/qualai-mcp)** - Qualitative research analysis
 
 ## 🤝 Contributing
 
@@ -252,14 +273,15 @@ We welcome contributions! Areas of interest:
 - Additional methodologies (please include academic/practitioner sources)
 - Improved question templates
 - Multi-language support
+- RAG optimization
 
 ## 📖 Academic Background
 
 This MCP implements methodologies from:
-- **Business Strategy**: Porter (1979), Ansoff (1957), Henderson (BCG, 1970)
-- **Creative Thinking**: Osborn (SCAMPER, 1953), de Bono (Lateral Thinking, 1967), Michalko (ThinkerToys, 1991)
-- **Critical Thinking**: Altshuller (TRIZ, 1946), Senge (Systems Thinking, 1990)
-- **Decision Science**: Kahneman & Tversky (Biases, 1974), Bezos (Regret Minimization, 1994)
+- **Business Strategy**: Porter (1979), Ansoff (1957), Henderson (BCG, 1970), Osterwalder (Business Model Canvas, 2010)
+- **Creative Thinking**: Osborn (SCAMPER, 1953), de Bono (Lateral Thinking, 1967), Michalko (ThinkerToys, 1991), Gregersen (Question Storming, 2018)
+- **Critical Thinking**: Altshuller (TRIZ, 1946), Senge (Systems Thinking, 1990), Snowden (Cynefin, 1999)
+- **Decision Science**: Kahneman & Tversky (Biases, 1974), Bezos (Regret Minimization, 1994), Maurya (Lean Canvas, 2012)
 
 ## 📝 License
 
@@ -270,6 +292,10 @@ MIT License
 - Michael Michalko - *ThinkerToys* (Creative methodologies)
 - Edward de Bono - *Six Thinking Hats*, *Lateral Thinking*
 - Genrich Altshuller - TRIZ methodology
+- Hal Gregersen - Question Storming (Harvard)
+- Clayton Christensen - Jobs To Be Done
+- Alex Osterwalder - Business Model Canvas
+- Dave Snowden - Cynefin Framework
 - Jeff Bezos - Regret Minimization Framework
 - Model Context Protocol team at Anthropic
 
