@@ -1,9 +1,13 @@
 """
 RAG (Retrieval-Augmented Generation) Integration
 ChromaDB 기반 벡터 검색으로 사고 방법론 추천
+
+NOTE: Lazy initialization is used to prevent slow server startup.
+ChromaDB and SentenceTransformer models are loaded only when first needed.
 """
 
 import os
+import sys
 import yaml
 from typing import List, Dict, Any, Optional
 from pathlib import Path
@@ -17,15 +21,26 @@ except ImportError:
 
 
 class RAGEngine:
-    def __init__(self, knowledge_path: Optional[str] = None):
+    def __init__(self, knowledge_path: Optional[str] = None, lazy_init: bool = True):
         self.knowledge_path = knowledge_path or self._find_knowledge_path()
         self.collection = None
         self.client = None
+        self.embedding_fn = None
         self.indexed = False
         self.documents: Dict[str, str] = {}
+        self._initialized = False
 
-        if CHROMADB_AVAILABLE:
+        # Only initialize immediately if not lazy (for CLI usage)
+        if not lazy_init and CHROMADB_AVAILABLE:
             self._initialize_chromadb()
+            self._initialized = True
+
+    def _ensure_initialized(self):
+        """Lazy initialization - only initialize ChromaDB when first needed"""
+        if not self._initialized and CHROMADB_AVAILABLE:
+            print("Initializing ChromaDB (lazy)...", file=sys.stderr)
+            self._initialize_chromadb()
+            self._initialized = True
 
     def _find_knowledge_path(self) -> str:
         current_dir = Path(__file__).parent.parent
@@ -52,7 +67,7 @@ class RAGEngine:
             if self.collection.count() > 0:
                 self.indexed = True
         except Exception as e:
-            print(f"ChromaDB error: {e}")
+            print(f"ChromaDB error: {e}", file=sys.stderr)
             self.collection = None
 
     def _parse_markdown_file(self, file_path: Path) -> Dict[str, Any]:
@@ -85,6 +100,8 @@ class RAGEngine:
         return " ".join(filter(None, parts))
 
     def index_knowledge(self, force: bool = False) -> Dict[str, Any]:
+        self._ensure_initialized()
+
         if not CHROMADB_AVAILABLE or not self.collection:
             return {"success": False, "error": "ChromaDB not available"}
 
@@ -109,12 +126,14 @@ class RAGEngine:
                 )
                 indexed += 1
             except Exception as e:
-                print(f"Index error {f.name}: {e}")
+                print(f"Index error {f.name}: {e}", file=sys.stderr)
 
         self.indexed = True
         return {"success": True, "indexed": indexed, "total": len(md_files)}
 
     def search(self, query: str, n_results: int = 5) -> List[Dict[str, Any]]:
+        self._ensure_initialized()
+
         if not CHROMADB_AVAILABLE or not self.collection:
             return self._fallback_search(query, n_results)
 
@@ -160,6 +179,7 @@ class RAGEngine:
         return results[:n_results]
 
     def get_stats(self) -> Dict[str, Any]:
+        self._ensure_initialized()
         stats = {"chromadb": CHROMADB_AVAILABLE, "indexed": self.indexed}
         if self.collection:
             stats["docs"] = self.collection.count()
@@ -180,7 +200,8 @@ class RAGEngine:
         self.documents.clear()
 
 
-rag_engine = RAGEngine()
+# Global instance with lazy initialization (default for MCP server)
+rag_engine = RAGEngine(lazy_init=True)
 
 if __name__ == "__main__":
     import sys
