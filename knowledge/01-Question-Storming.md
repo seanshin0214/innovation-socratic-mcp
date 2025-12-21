@@ -1,81 +1,326 @@
-# Question Storming (40 Questions Framework)
+---
+id: question-storming
+title: Question Storming (질문 폭풍)
+category: question_inquiry
+category_kr: 질문/탐구
+difficulty: intermediate
+time_required: 30-60분
+group_size: 4-8명
 
-## Category
-CREATIVE & INNOVATION / DEEP EXPLORATION
+related_methods:
+  - 04-Socratic-Questioning
+  - 57-Starbursting
+  - 73-Brainstorming
+  - 02-Kipling-Method
 
-## Priority
-PRIMARY METHOD - Default methodology for deep exploration
+complementary_methods:
+  - 49-Six-Thinking-Hats
+  - 71-Reframing
 
-## Description
-Hal Gregersen's Question Storming methodology expanded with 40 systematic questions: 20 Descriptive Questions (현상 이해) to understand the current state, and 20 Disruptive Questions (파괴적 질문) to challenge assumptions and discover breakthrough insights.
+keywords:
+  - 질문
+  - 발산
+  - 탐색
+  - 문제정의
+  - 브레인스토밍
 
-## When to Use
-- Complex problems with unclear definition
-- Strategic decision-making that needs deep exploration
-- Innovation challenges requiring assumption-breaking
-- Team stuck in conventional thinking
-- Early stage innovation/design
-- When you need comprehensive analysis before action
+use_cases:
+  - 문제 정의
+  - 탐색 단계
+  - 혁신 워크샵
+  - 전략 수립
 
-## Question Sequence (40 questions)
+origin: Hal Gregersen, MIT
+---
+# Question Storming (질문 폭풍)
 
-### PART 1: DESCRIPTIVE QUESTIONS (현상 이해) - 20 Questions
+## 문서 정보
+| 항목 | 내용 |
+|------|------|
+| **개발자** | Hal Gregersen (MIT Leadership Center, 2018) |
+| **난이도** | ★★★☆☆ |
+| **소요 시간** | 30-60분 |
+| **적정 인원** | 4-8명 (개인도 가능) |
 
-1. **SITUATION OVERVIEW:** 현재 상황을 가장 정확하게 설명한다면?
-2. **CORE ELEMENTS:** 이 문제의 핵심 요소들은 무엇입니까?
-3. **BACKGROUND:** 이 상황이 발생한 배경은 무엇입니까?
-4. **STAKEHOLDERS:** 관련된 이해관계자는 누구입니까?
-5. **RESOURCES:** 현재 사용 가능한 자원은 무엇입니까?
-6. **CONSTRAINTS:** 어떤 제약 조건이 존재합니까?
-7. **HISTORY:** 이 문제의 역사적 맥락은 무엇입니까?
-8. **BENCHMARKS:** 비슷한 상황에서 다른 사람들은 어떻게 했습니까?
-9. **ATTEMPTED:** 현재 시도된 해결책은 무엇입니까?
-10. **GAPS:** 그 해결책들이 왜 충분하지 않았습니까?
-11. **DIRECT IMPACT:** 이 문제로 인한 직접적 영향은 무엇입니까?
-12. **INDIRECT IMPACT:** 간접적/2차적 영향은 무엇입니까?
-13. **SUCCESS:** 성공의 기준은 무엇입니까?
-14. **FAILURE:** 실패의 기준은 무엇입니까?
-15. **TIME:** 시간적 제약은 무엇입니까?
-16. **BUDGET:** 예산/비용 제약은 무엇입니까?
-17. **TECHNICAL:** 기술적 제약은 무엇입니까?
-18. **ORGANIZATIONAL:** 조직/문화적 제약은 무엇입니까?
-19. **INFO GAPS:** 데이터/정보 격차는 무엇입니까?
-20. **SUMMARY:** 현재 상황을 한 문장으로 요약한다면?
+---
 
-### PART 2: DISRUPTIVE QUESTIONS (파괴적 질문) - 20 Questions
+## 1. 개요
 
-21. **REFRAME:** 이 문제가 사실 문제가 아니라면?
-22. **OPPOSITE:** 정반대 접근법을 취한다면?
-23. **NO LIMITS:** 모든 제약이 사라진다면?
-24. **10X BIGGER:** 10배 더 크게 생각한다면?
-25. **10X SMALLER:** 10배 더 작게 생각한다면?
-26. **CROSS-INDUSTRY:** 완전히 다른 산업에서 본다면?
-27. **CHILD VIEW:** 5살 아이가 본다면?
-28. **COMPETITOR:** 경쟁자가 먼저 해결한다면?
-29. **5 YEARS:** 해결하지 않으면 5년 후?
-30. **WORST FEAR:** 가장 두려운 시나리오는?
-31. **FALSE BELIEF:** 당연하다고 생각하는 것 중 틀린 것은?
-32. **AVOIDED:** 피하고 있는 질문은?
-33. **NO FAILURE:** 실패가 옵션이 아니라면?
-34. **ONLY FAILURE:** 실패가 유일한 옵션이라면?
-35. **WILDEST:** 가장 미친 아이디어는?
-36. **BREAK RULES:** 어떤 규칙을 어기겠습니까?
-37. **NEW MARKET:** 새로운 시장을 만든다면?
-38. **AI SOLVES ALL:** AI가 모든 것을 해결한다면?
-39. **FUTURE VIEW:** 10년 후에서 본다면?
-40. **SYNTHESIS:** 모든 답변을 종합하면 새로운 통찰은?
+### 1.1 정의
+**Question Storming**은 답이 아닌 **질문을 생성**하는 창의적 사고 방법론이다. 기존 브레인스토밍이 해결책을 찾는 데 초점을 맞추는 반면, Question Storming은 **올바른 질문을 발견**하는 것을 목표로 한다.
 
-## Expected Outcome
-- 40 comprehensive questions explored
-- Problem deeply understood from multiple angles
-- Assumptions surfaced and challenged
-- Breakthrough insights discovered
+> "답 대신 가장 유망하고 강력한 몇 개의 질문을 건지는 것" - Hal Gregersen
 
-## Academic Source
-- Gregersen, H. (2018). "Questions Are the Answer"
-- Harvard Business Review
+### 1.2 핵심 원칙
 
-## Tips
-- Complete all 40 questions for best results
-- Disruptive questions are meant to feel uncomfortable
-- Synthesis at the end is the most valuable part
+| 원칙 | 설명 |
+|------|------|
+| **질문만 생성** | 답변, 설명, 정당화 금지 - 오직 질문만 |
+| **판단 유보** | 좋은/나쁜 질문 구분 없이 모두 기록 |
+| **다관점 접근** | 다양한 시각에서 질문 생성 |
+| **양 우선** | 최소 50개 이상 질문 목표 |
+
+### 1.3 언제 사용하는가?
+- ✅ 문제 정의가 불분명할 때
+- ✅ 고착된 사고에서 벗어나고 싶을 때
+- ✅ 혁신적 접근이 필요할 때
+- ✅ 이해관계자 관점 파악이 필요할 때
+- ✅ 전략적 의사결정 전 탐색 단계
+
+---
+
+## 2. 40 Questions Framework
+
+### PART 1: DESCRIPTIVE QUESTIONS (현상 이해) - 20개
+
+| # | 카테고리 | 질문 |
+|---|----------|------|
+| 1 | SITUATION | 현재 상황을 가장 정확하게 설명한다면? |
+| 2 | CORE | 이 문제의 핵심 요소들은 무엇입니까? |
+| 3 | BACKGROUND | 이 상황이 발생한 배경은 무엇입니까? |
+| 4 | STAKEHOLDERS | 관련된 이해관계자는 누구입니까? |
+| 5 | RESOURCES | 현재 사용 가능한 자원은 무엇입니까? |
+| 6 | CONSTRAINTS | 어떤 제약 조건이 존재합니까? |
+| 7 | HISTORY | 이 문제의 역사적 맥락은 무엇입니까? |
+| 8 | BENCHMARKS | 비슷한 상황에서 다른 사람들은 어떻게 했습니까? |
+| 9 | ATTEMPTED | 현재 시도된 해결책은 무엇입니까? |
+| 10 | GAPS | 그 해결책들이 왜 충분하지 않았습니까? |
+| 11 | DIRECT IMPACT | 이 문제로 인한 직접적 영향은 무엇입니까? |
+| 12 | INDIRECT | 간접적/2차적 영향은 무엇입니까? |
+| 13 | SUCCESS | 성공의 기준은 무엇입니까? |
+| 14 | FAILURE | 실패의 기준은 무엇입니까? |
+| 15 | TIME | 시간적 제약은 무엇입니까? |
+| 16 | BUDGET | 예산/비용 제약은 무엇입니까? |
+| 17 | TECHNICAL | 기술적 제약은 무엇입니까? |
+| 18 | ORGANIZATIONAL | 조직/문화적 제약은 무엇입니까? |
+| 19 | INFO GAPS | 데이터/정보 격차는 무엇입니까? |
+| 20 | SUMMARY | 현재 상황을 한 문장으로 요약한다면? |
+
+### PART 2: DISRUPTIVE QUESTIONS (파괴적 질문) - 20개
+
+| # | 카테고리 | 질문 |
+|---|----------|------|
+| 21 | REFRAME | 이 문제가 사실 문제가 아니라면? |
+| 22 | OPPOSITE | 정반대 접근법을 취한다면? |
+| 23 | NO LIMITS | 모든 제약이 사라진다면? |
+| 24 | 10X BIGGER | 10배 더 크게 생각한다면? |
+| 25 | 10X SMALLER | 10배 더 작게 생각한다면? |
+| 26 | CROSS-INDUSTRY | 완전히 다른 산업에서 본다면? |
+| 27 | CHILD VIEW | 5살 아이가 본다면? |
+| 28 | COMPETITOR | 경쟁자가 먼저 해결한다면? |
+| 29 | 5 YEARS | 해결하지 않으면 5년 후? |
+| 30 | WORST FEAR | 가장 두려운 시나리오는? |
+| 31 | FALSE BELIEF | 당연하다고 생각하는 것 중 틀린 것은? |
+| 32 | AVOIDED | 피하고 있는 질문은? |
+| 33 | NO FAILURE | 실패가 옵션이 아니라면? |
+| 34 | ONLY FAILURE | 실패가 유일한 옵션이라면? |
+| 35 | WILDEST | 가장 미친 아이디어는? |
+| 36 | BREAK RULES | 어떤 규칙을 어기겠습니까? |
+| 37 | NEW MARKET | 새로운 시장을 만든다면? |
+| 38 | AI SOLVES | AI가 모든 것을 해결한다면? |
+| 39 | FUTURE VIEW | 10년 후에서 본다면? |
+| 40 | SYNTHESIS | 모든 답변을 종합하면 새로운 통찰은? |
+
+---
+
+## 3. 다관점 접근법
+
+### 3.1 Six Thinking Hats 융합 질문
+
+| 모자 | 사고 유형 | 질문 예시 |
+|------|----------|----------|
+| ⚪ **White** | 객관적 사실 | "현재 상황의 정확한 데이터는?" |
+| 🔴 **Red** | 감정/직감 | "이 상황에서 어떤 감정을 느끼는가?" |
+| ⚫ **Black** | 비판/위험 | "어떤 위험 요소들이 있을까?" |
+| 🟡 **Yellow** | 긍정/기회 | "어떤 새로운 기회가 있을까?" |
+| 🟢 **Green** | 창의/혁신 | "완전히 다른 접근법은 무엇일까?" |
+| 🔵 **Blue** | 메타/과정 | "우리가 놓친 관점은 무엇인가?" |
+
+### 3.2 PERSPECTIVE 프레임워크 (11가지 관점)
+
+| 관점 | 핵심 질문 |
+|------|----------|
+| **P**eople (사람) | 누가 영향받는가? 누구의 관점이 빠졌는가? |
+| **E**motion (감정) | 어떤 감정이 관련되어 있는가? |
+| **R**ational (이성) | 논리적으로 분석하면? |
+| **S**ocial (사회) | 사회적 영향은? |
+| **P**rofessional (전문) | 전문가라면 어떻게 볼까? |
+| **E**ducational (교육) | 학습 관점에서는? |
+| **C**ultural (문화) | 문화적 맥락은? |
+| **T**emporal (시간) | 과거/현재/미래 관점은? |
+| **I**nnovative (혁신) | 완전히 새로운 접근은? |
+| **V**alue (가치) | 핵심 가치는 무엇인가? |
+| **E**thical (윤리) | 윤리적 고려사항은? |
+
+### 3.3 MBTI 기반 질문 접근
+
+| 유형 | 질문 스타일 |
+|------|------------|
+| **E (외향)** | "다른 사람들과 함께 어떻게 해결할까?" |
+| **I (내향)** | "혼자 깊이 생각해보면 어떤 아이디어가?" |
+| **S (감각)** | "구체적이고 실용적인 해결책은?" |
+| **N (직관)** | "미래의 가능성은 무엇인가?" |
+| **T (사고)** | "논리적으로 분석하면 어떤 결론이?" |
+| **F (감정)** | "사람들의 감정을 고려하면?" |
+| **J (판단)** | "명확한 계획과 일정은?" |
+| **P (인식)** | "유연하고 적응적인 방법은?" |
+
+### 3.4 세대별 관점 질문
+
+| 세대 | 질문 관점 |
+|------|----------|
+| **베이비부머** | "경험과 지혜를 바탕으로 한 접근법은?" |
+| **X세대** | "균형잡힌 실용적 해결책은?" |
+| **밀레니얼** | "기술과 사회적 가치를 결합한 방법은?" |
+| **Z세대** | "디지털 네이티브 시각에서는?" |
+
+---
+
+## 4. 진행 단계
+
+### 4.1 기본 프로세스 (4단계)
+
+```
+[1단계: 설정]     [2단계: 질문 생성]     [3단계: 분류]     [4단계: 선별]
+    5분                 20분                10분              10분
+    │                   │                   │                 │
+    ▼                   ▼                   ▼                 ▼
+ 문제 정의          질문만 생성          유형별 분류       핵심 질문
+ 규칙 공유          판단 금지            패턴 발견          3-5개 선정
+```
+
+### 4.2 상세 단계
+
+#### **1단계: 설정 (5분)**
+1. 핵심 과제/문제를 한 문장으로 정의
+2. 규칙 공유: "질문만, 답변 금지, 판단 유보"
+3. 타이머 설정
+
+#### **2단계: 질문 생성 (20분)**
+1. 각자 질문을 포스트잇에 작성 (1질문 = 1포스트잇)
+2. 생각나는 대로 빠르게 작성
+3. 최소 50개 질문 목표
+4. 중간에 관점 전환 촉진
+
+#### **3단계: 분류 및 클러스터링 (10분)**
+1. 모든 질문을 보드에 붙이기
+2. 유사한 질문끼리 그룹핑
+3. 각 그룹에 테마 이름 부여
+4. 패턴과 빈틈 발견
+
+#### **4단계: 핵심 질문 선별 (10분)**
+1. 투표로 가장 강력한 질문 3-5개 선정
+2. 선정 기준: 새로움, 도전성, 실행가능성
+3. 선정된 질문으로 다음 단계 계획
+
+---
+
+## 5. 질문 품질 평가 매트릭스
+
+| 평가 기준 | 1점 | 3점 | 5점 |
+|----------|-----|-----|-----|
+| **관점 다양성** | 1-2개 관점 | 3-4개 관점 | 5개+ 관점 |
+| **질문 깊이** | 표면적 (What) | 분석적 (Why) | 변혁적 (What if) |
+| **창의성** | 기존 사고 범위 | 일부 새로운 시각 | 패러다임 전환 |
+| **실행가능성** | 답변 불가 | 조사 필요 | 즉시 탐구 가능 |
+
+---
+
+## 6. AI 활용 Question Storming
+
+### 6.1 AI 프롬프트 예시
+
+```
+당신은 [역할: 고객/경쟁자/규제기관/미래학자]입니다.
+다음 문제에 대해 오직 질문만 10개 생성하세요.
+답변이나 설명 없이 질문만 나열하세요.
+
+문제: [핵심 과제 입력]
+```
+
+### 6.2 AI 활용 방식
+
+| 활용 방식 | 설명 |
+|----------|------|
+| **관점 확장** | AI에게 다양한 페르소나 역할 부여하여 질문 생성 |
+| **질문 분석** | 생성된 질문의 패턴, 편향, 빈틈 분석 |
+| **질문 심화** | 표면적 질문을 더 깊은 질문으로 발전 |
+| **연결 발견** | 질문 간 숨겨진 연결고리 발견 |
+
+---
+
+## 7. 1,040개 리더십 질문과의 연결
+
+본 MCP에는 **1,040개의 리더십 질문**이 포함되어 있습니다:
+
+### 질문 체계 구조
+
+| PART | 유형 | 개수 |
+|------|------|------|
+| 1 | Descriptive Questions (현상 파악) | 250개 |
+| 2 | Why/How Questions (심화 탐구) | 250개 |
+| 3 | Six Thinking Hats Questions | 180개 |
+| 4 | SCAMPER Questions | 210개 |
+| 5 | 5 Whys Questions | 150개 |
+
+### 주요 카테고리
+
+- A. 인사/성과 관리
+- B. 조직 갈등/권력투쟁
+- C. 윤리적 딜레마
+- D. 위기 관리/커뮤니케이션
+- E. 전략적 의사결정
+- F. 재무/자원 관리
+- G. 혁신/변화 관리
+- H. 문화적/글로벌 이슈
+- I. 대학/교육 특화
+- J. 개인 리더십 챌린지
+
+### 활용 방법
+
+1. **트레이닝 모드**: 리더십 상황에서 질문 연습
+2. **사고 도구 연결**: Six Hats, SCAMPER, 5 Whys 와 연계
+3. **시나리오 학습**: 실제 딜레마 상황 시뮬레이션
+
+---
+
+## 8. 주의사항
+
+### Do's ✅
+- 모든 질문을 기록하라
+- 침묵의 시간을 허용하라
+- 관점 전환을 촉진하라
+- 소수 의견을 보호하라
+- 질문의 양을 먼저 확보하라
+
+### Don'ts ❌
+- 질문에 답변하지 마라
+- 질문을 평가하지 마라
+- 한 관점에 고착되지 마라
+- 너무 빨리 수렴하지 마라
+- 권위에 의한 질문 선별 금지
+
+---
+
+## 9. 관련 도구
+
+| 도구 | 관계 | 설명 |
+|------|------|------|
+| Six Thinking Hats | 융합 | 관점 전환 프레임워크 |
+| 5 Whys | 보완 | 근본 원인 탐색 |
+| SCAMPER | 연계 | 체계적 변형 질문 |
+| Fishbone | 보완 | 원인 분석 |
+| Reframing | 연계 | 문제 재정의 |
+
+---
+
+## 참고 문헌
+
+- Gregersen, H. (2018). *Questions Are the Answer*. Harper Business.
+- Gregersen, H. (2018). "Better Brainstorming". *Harvard Business Review*.
+- de Bono, E. (1985). *Six Thinking Hats*. Little, Brown and Company.
+- Berger, W. (2014). *A More Beautiful Question*. Bloomsbury.
+
+---
+
+*"올바른 질문이 혁신을 만든다" - Hal Gregersen*

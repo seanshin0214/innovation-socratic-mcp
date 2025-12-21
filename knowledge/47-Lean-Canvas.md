@@ -1,57 +1,35 @@
 ---
-id: lean-canvas
+id: lean-canvas-detailed
 title: Lean Canvas (린 캔버스)
-aliases:
-  - 린캔버스
-  - 스타트업캔버스
-  - 비즈니스모델캔버스
-  - BMC
-category: business_strategy
-subcategory: business_model
-
-use_cases:
-  - 스타트업 아이디어 검증
-  - 비즈니스 모델 설계
-  - 투자자 피칭
-  - 팀 얼라인먼트
-  - 피벗 결정
-  - MVP 정의
-
-keywords:
-  - 스타트업
-  - 비즈니스모델
-  - MVP
-  - 린스타트업
-  - 가설검증
-  - 피벗
-  - 문제해결
-  - 불공정우위
-  - 채널
-  - 수익구조
-
+category: strategy_planning
+category_kr: 전략/계획
 difficulty: intermediate
-time_required: 30분-2시간
-group_size: 개인/팀 (2-5명)
+time_required: 30-60분
+group_size: 1-5명
 
 related_methods:
-  - 46-Value-Proposition-Canvas  # 가치제안 상세화
-  - 41-OKR  # 목표 설정
-  - 42-Agile-Framework  # 실행
-  - 45-Jobs-to-be-Done  # 고객 문제 이해
+  - 11-Business-Model-Canvas
+  - 12-Value-Proposition-Canvas
+  - 42-Agile-Framework
 
-prerequisites:
-  - 아이디어 또는 가설
-  - 타겟 고객 정의
-  - 문제에 대한 이해
+complementary_methods:
+  - 07-Assumption-Testing
+  - 48-Pre-Mortem
 
-output_type:
-  - Lean Canvas 1페이지
-  - 검증 가설 목록
-  - MVP 정의
+keywords:
+  - 린스타트업
+  - MVP
+  - Problem-Solution Fit
+  - 스타트업
 
-origin: Ash Maurya, Running Lean
+use_cases:
+  - 스타트업
+  - 신제품
+  - 린 방법론
+  - 빠른 검증
+
+origin: Ash Maurya
 ---
-
 # Lean Canvas (린 캔버스)
 
 ## 개요

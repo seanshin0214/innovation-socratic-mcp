@@ -1,3 +1,38 @@
+---
+id: kipling-method
+title: Kipling Method (5W1H)
+category: question_inquiry
+category_kr: 질문/탐구
+difficulty: beginner
+time_required: 15-30분
+group_size: 1-10명
+
+related_methods:
+  - 01-Question-Storming
+  - 04-Socratic-Questioning
+  - 57-Starbursting
+
+complementary_methods:
+  - 51-Five-Whys
+  - 74-Fishbone-Diagram
+
+keywords:
+  - 5W1H
+  - Who
+  - What
+  - When
+  - Where
+  - Why
+  - How
+
+use_cases:
+  - 문제 분석
+  - 요구사항 정의
+  - 기사 작성
+  - 조사
+
+origin: Rudyard Kipling
+---
 # Kipling Method (5W1H)
 
 ## Category

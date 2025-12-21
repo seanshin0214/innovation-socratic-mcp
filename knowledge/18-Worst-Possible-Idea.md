@@ -1,3 +1,35 @@
+---
+id: worst-possible-idea
+title: Worst Possible Idea (최악의 아이디어)
+category: creative_divergent
+category_kr: 창의적 발산
+difficulty: beginner
+time_required: 15-30분
+group_size: 3-12명
+
+related_methods:
+  - 56-Reverse-Brainstorming
+  - 73-Brainstorming
+  - 21-False-Faces-Reversal
+
+complementary_methods:
+  - 25-SCAMPER
+  - 68-Forced-Connections
+
+keywords:
+  - 역발상
+  - 창의성
+  - 두려움 제거
+  - 자유로운 발상
+
+use_cases:
+  - 창의성 촉진
+  - 팀 워밍업
+  - 고착 탈피
+  - 아이스브레이킹
+
+origin: IDEO Design Thinking
+---
 # Worst Possible Idea (Reverse Brainstorming)
 
 ## Category

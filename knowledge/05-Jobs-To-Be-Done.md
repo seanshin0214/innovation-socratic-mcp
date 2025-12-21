@@ -1,3 +1,36 @@
+---
+id: jobs-to-be-done
+title: Jobs-To-Be-Done (JTBD)
+category: innovation_design
+category_kr: 혁신/디자인
+difficulty: intermediate
+time_required: 1-3시간
+group_size: 3-8명
+
+related_methods:
+  - 44-Design-Thinking
+  - 12-Value-Proposition-Canvas
+  - 11-Business-Model-Canvas
+
+complementary_methods:
+  - 17-Stakeholder-Mapping
+  - 52-SWOT-Analysis
+
+keywords:
+  - 고객
+  - 니즈
+  - Job
+  - Outcome
+  - 혁신
+
+use_cases:
+  - 제품 개발
+  - 시장 분석
+  - 고객 이해
+  - 혁신 전략
+
+origin: Clayton Christensen
+---
 # Jobs To Be Done (JTBD)
 
 ## Category

@@ -1,3 +1,35 @@
+---
+id: impact-effort-matrix
+title: Impact-Effort Matrix (영향-노력 매트릭스)
+category: decision_making
+category_kr: 의사결정
+difficulty: beginner
+time_required: 15-30분
+group_size: 1-10명
+
+related_methods:
+  - 67-Decision-Matrix
+  - 55-PMI-Analysis
+  - 16-Critical-Success-Factors
+
+complementary_methods:
+  - 41-OKR
+  - 43-KPI-Metrics
+
+keywords:
+  - 우선순위
+  - Quick Win
+  - 효율성
+  - 자원배분
+
+use_cases:
+  - 우선순위 결정
+  - 프로젝트 선정
+  - 자원 배분
+  - 개선 활동
+
+origin: Eisenhower Matrix 변형
+---
 # Impact-Effort Matrix (Action Priority Matrix)
 
 ## Category

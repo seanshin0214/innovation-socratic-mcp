@@ -1,3 +1,38 @@
+---
+id: scamper
+title: SCAMPER (스캠퍼)
+category: creative_divergent
+category_kr: 창의적 발산
+difficulty: beginner
+time_required: 20-45분
+group_size: 1-10명
+
+related_methods:
+  - 20-TRIZ-Contradiction-Matrix
+  - 68-Forced-Connections
+  - 73-Brainstorming
+
+complementary_methods:
+  - 18-Worst-Possible-Idea
+  - 60-Morphological-Analysis
+
+keywords:
+  - 대체
+  - 결합
+  - 적용
+  - 수정
+  - 다른용도
+  - 제거
+  - 역전
+
+use_cases:
+  - 제품 개선
+  - 아이디어 발상
+  - 혁신
+  - 창의성 훈련
+
+origin: Bob Eberle (Alex Osborn 기반)
+---
 # SCAMPER - 체계적 발상 전환 기법
 
 ## 개요
@@ -51,6 +86,18 @@
 | E | 무엇을 제거? | |
 | R | 무엇을 역전? | |
 
+## 혁신이론 적용 예시
+
+| 기법 | 의미 | 혁신이론 적용 질문 |
+|------|------|-------------------|
+| **S**ubstitute | 대체 | "기존 기술을 AI로 대체하면?" |
+| **C**ombine | 결합 | "두 이론을 결합하면?" |
+| **A**dapt | 적용 | "다른 산업에 적용하면?" |
+| **M**odify | 변형 | "규모를 확대/축소하면?" |
+| **P**ut to other uses | 다른 용도 | "원래 목적 외 활용은?" |
+| **E**liminate | 제거 | "핵심만 남기면 무엇?" |
+| **R**everse | 역발상 | "반대로 하면 어떻게?" |
+
 ## 활용 상황
 - 제품/서비스 개선
 - 문제 해결 아이디어 발굴
@@ -61,3 +108,5 @@
 - 체크리스트 기법
 - 속성 나열법
 - 강제 연결법
+- Six Thinking Hats
+- Reverse Brainstorming

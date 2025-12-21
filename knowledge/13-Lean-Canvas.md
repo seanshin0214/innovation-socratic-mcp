@@ -1,3 +1,35 @@
+---
+id: lean-canvas
+title: Lean Canvas (린 캔버스)
+category: strategy_planning
+category_kr: 전략/계획
+difficulty: intermediate
+time_required: 30-60분
+group_size: 1-5명
+
+related_methods:
+  - 11-Business-Model-Canvas
+  - 12-Value-Proposition-Canvas
+  - 42-Agile-Framework
+
+complementary_methods:
+  - 07-Assumption-Testing
+  - 48-Pre-Mortem
+
+keywords:
+  - 린스타트업
+  - MVP
+  - Problem-Solution Fit
+  - 스타트업
+
+use_cases:
+  - 스타트업
+  - 신제품
+  - 린 방법론
+  - 빠른 검증
+
+origin: Ash Maurya
+---
 # Lean Canvas
 
 ## Category

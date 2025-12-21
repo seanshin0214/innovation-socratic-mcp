@@ -1,3 +1,35 @@
+---
+id: assumption-testing
+title: Assumption Testing (가정 검증)
+category: problem_solving
+category_kr: 문제해결
+difficulty: intermediate
+time_required: 30-90분
+group_size: 2-8명
+
+related_methods:
+  - 04-Socratic-Questioning
+  - 48-Pre-Mortem
+  - 40-Murder-Board
+
+complementary_methods:
+  - 51-Five-Whys
+  - 52-SWOT-Analysis
+
+keywords:
+  - 가정
+  - 검증
+  - 리스크
+  - 비판적 사고
+
+use_cases:
+  - 프로젝트 계획
+  - 신사업
+  - 투자 결정
+  - 전략 검토
+
+origin: Lean Startup, Scientific Method
+---
 # Assumption Testing
 
 ## Category

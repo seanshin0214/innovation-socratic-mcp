@@ -1,3 +1,35 @@
+---
+id: phoenix-checklist
+title: Phoenix Checklist (피닉스 체크리스트)
+category: question_inquiry
+category_kr: 질문/탐구
+difficulty: intermediate
+time_required: 30-60분
+group_size: 1-6명
+
+related_methods:
+  - 02-Kipling-Method
+  - 01-Question-Storming
+  - 04-Socratic-Questioning
+
+complementary_methods:
+  - 07-Assumption-Testing
+  - 48-Pre-Mortem
+
+keywords:
+  - CIA
+  - 체크리스트
+  - 종합질문
+  - 문제정의
+
+use_cases:
+  - 문제 분석
+  - 정보 수집
+  - 조사
+  - 계획 검토
+
+origin: CIA (미국 중앙정보국)
+---
 # Phoenix Checklist (피닉스 체크리스트)
 
 ## 개요

@@ -1,10 +1,13 @@
 # 🤔 Innovation Socratic MCP
 
-> **AI that asks, not answers** | 질문하는 AI, 소크라테스처럼
+> **74개 혁신 사고 방법론을 RAG로 구현한 질문하는 AI**
+>
+> *Think Different with Questions — Not Answers*
 
 [![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-blue)](https://modelcontextprotocol.io)
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://www.python.org)
-[![Methodologies](https://img.shields.io/badge/Methodologies-78+-orange)](knowledge/)
+[![Methodologies](https://img.shields.io/badge/Methodologies-74-orange)](knowledge/)
+[![RAG](https://img.shields.io/badge/RAG-Supabase_pgvector-purple)](supabase/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 ## 💡 Why This Exists
@@ -12,7 +15,7 @@
 Most AI tools **give you answers**.
 This MCP **asks you questions** instead.
 
-Like Socrates, it guides you to discover insights through structured questioning - using **78+ proven methodologies** from business strategy, creative thinking, and critical analysis.
+**74개의 검증된 혁신 사고 방법론**을 RAG(Retrieval-Augmented Generation)로 구현하여, 소크라테스처럼 질문을 통해 당신의 사고를 이끌어냅니다. 전략, 창의성, 비판적 사고의 프레임워크를 활용해 스스로 통찰에 도달하도록 안내합니다.
 
 ## ✨ What Makes This Different
 
@@ -27,7 +30,7 @@ Like Socrates, it guides you to discover insights through structured questioning
 
 **"I cannot teach anybody anything. I can only make them think." - Socrates**
 
-This MCP implements 78+ structured thinking methodologies as **question frameworks**:
+This MCP implements 74 structured thinking methodologies as **question frameworks**:
 
 - **Strategic Decision-Making** (30 methods): Decision Tree, SWOT, BCG Matrix, Business Model Canvas, Lean Canvas, Stakeholder Mapping...
 - **Creative Problem-Solving** (30 methods): SCAMPER, Question Storming, TRIZ, Design Thinking, Jobs To Be Done, Liberating Structures...
@@ -35,7 +38,7 @@ This MCP implements 78+ structured thinking methodologies as **question framewor
 
 ## 📚 Knowledge Base (RAG-Ready)
 
-**[20 Advanced Methodology Files](knowledge/)** - Detailed methodologies with:
+**[74 Advanced Methodology Files](knowledge/)** - Detailed methodologies with:
 - Category classification
 - Question sequences
 - Academic sources
@@ -58,7 +61,7 @@ pip install -r requirements.txt
 ```json
 {
   "mcpServers": {
-    "socratic-thinking": {
+    "innovation-socratic": {
       "command": "python",
       "args": ["-m", "src.server"],
       "cwd": "C:\\\\Users\\\\YourName\\\\Documents\\\\innovation-socratic-mcp",
@@ -111,7 +114,7 @@ The MCP activates when you use:
 - **Korean**: "씽킹툴", "소크라테스", "생각 정리", "사고 도구"
 - **Context**: Decision-making, strategy, brainstorming, problem-solving
 
-## 📚 78+ Methodologies
+## 📚 74 Methodologies
 
 ### 🎯 Strategic & Decision-Making (30)
 
@@ -264,7 +267,7 @@ innovation-socratic-mcp/
 
 ## 🔗 Related Projects
 
-- **[Socratic Thinking GPT](https://github.com/seanshin0214/socratic-thinking-gpt)** - ChatGPT GPT version (no coding required)
+- **[Socratic Thinking GPT](https://github.com/seanshin0214/innovation-socratic-gpt)** - ChatGPT GPT version (no coding required)
 - **[QualAI MCP](https://github.com/seanshin0214/qualai-mcp)** - Qualitative research analysis
 
 ## 🤝 Contributing
@@ -304,3 +307,43 @@ MIT License
 **Built with ❤️ for deeper thinking**
 
 *"The unexamined life is not worth living." - Socrates*
+
+---
+
+## 📊 Knowledge Base Structure (2024-12 Update)
+
+### YAML Frontmatter Metadata
+모든 74개 knowledge 파일에 다음 메타데이터 구조가 적용되어 있습니다:
+
+```yaml
+---
+id: unique-identifier
+title: Tool Name (한글명)
+category: category_id           # 12개 카테고리 중 하나
+category_kr: 카테고리 한글명
+difficulty: beginner/intermediate/advanced/expert
+time_required: 소요시간
+group_size: 적정 인원
+
+related_methods:                # 직접 관련 도구
+  - 04-Socratic-Questioning
+complementary_methods:          # 보완 도구
+  - 49-Six-Thinking-Hats
+keywords:                       # 벡터 검색용
+use_cases:                      # 사용 사례
+origin: 개발자/출처
+---
+```
+
+### 12개 카테고리
+- question_inquiry, creative_divergent, analysis_convergent
+- strategy_planning, problem_solving, innovation_design
+- visualization, decision_making, intuitive_creative
+- group_collaboration, structured_thinking, root_cause
+
+### 인덱스 파일
+- `knowledge/_index.json` - 카테고리, 클러스터, 워크플로우 JSON
+- `knowledge/_RELATIONSHIP_MAP.md` - 관계 구조 문서
+
+### 벡터 검색 활용
+`related_methods`와 `complementary_methods` 필드를 통해 관련 도구를 함께 검색 가능

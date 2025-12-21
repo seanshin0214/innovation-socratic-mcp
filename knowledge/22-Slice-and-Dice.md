@@ -1,3 +1,35 @@
+---
+id: slice-and-dice
+title: Slice and Dice (분해 분석)
+category: structured_thinking
+category_kr: 구조화 사고
+difficulty: intermediate
+time_required: 30-60분
+group_size: 1-6명
+
+related_methods:
+  - 69-MECE
+  - 23-Cherry-Split
+  - 74-Fishbone-Diagram
+
+complementary_methods:
+  - 59-Affinity-Diagram
+  - 54-Mind-Mapping
+
+keywords:
+  - 분해
+  - 분류
+  - MECE
+  - 구조화
+
+use_cases:
+  - 데이터 분석
+  - 문제 분해
+  - 시장 세분화
+  - 구조화
+
+origin: McKinsey 컨설팅
+---
 # Slice and Dice (Attribute Listing) - 속성 분해 기법
 
 ## 개요

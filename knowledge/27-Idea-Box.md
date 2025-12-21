@@ -1,3 +1,35 @@
+---
+id: idea-box
+title: Idea Box (아이디어 박스)
+category: creative_divergent
+category_kr: 창의적 발산
+difficulty: intermediate
+time_required: 30-60분
+group_size: 1-8명
+
+related_methods:
+  - 60-Morphological-Analysis
+  - 25-SCAMPER
+  - 28-Lotus-Blossom
+
+complementary_methods:
+  - 68-Forced-Connections
+  - 73-Brainstorming
+
+keywords:
+  - 조합
+  - 매트릭스
+  - 체계적 발상
+  - 변수
+
+use_cases:
+  - 제품 개발
+  - 조합 탐색
+  - 옵션 생성
+  - 창의적 해결
+
+origin: Fritz Zwicky 영향
+---
 # Idea Box (Morphological Analysis) - 형태학적 분석
 
 ## 개요

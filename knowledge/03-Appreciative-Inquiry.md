@@ -1,3 +1,38 @@
+---
+id: appreciative-inquiry
+title: Appreciative Inquiry (긍정 탐구)
+category: question_inquiry
+category_kr: 질문/탐구
+difficulty: intermediate
+time_required: 2-4시간
+group_size: 5-30명
+
+related_methods:
+  - 04-Socratic-Questioning
+  - 35-Stone-Soup
+  - 71-Reframing
+
+complementary_methods:
+  - 44-Design-Thinking
+  - 63-World-Cafe
+
+keywords:
+  - 긍정
+  - 강점
+  - 4D
+  - Discovery
+  - Dream
+  - Design
+  - Destiny
+
+use_cases:
+  - 조직 개발
+  - 팀 빌딩
+  - 변화 관리
+  - 비전 수립
+
+origin: David Cooperrider
+---
 # Appreciative Inquiry (4D Model)
 
 ## Category

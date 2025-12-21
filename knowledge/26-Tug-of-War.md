@@ -1,3 +1,35 @@
+---
+id: tug-of-war
+title: Tug of War (줄다리기)
+category: analysis_convergent
+category_kr: 분석/수렴
+difficulty: beginner
+time_required: 15-30분
+group_size: 2-10명
+
+related_methods:
+  - 53-Force-Field-Analysis
+  - 55-PMI-Analysis
+  - 52-SWOT-Analysis
+
+complementary_methods:
+  - 67-Decision-Matrix
+  - 49-Six-Thinking-Hats
+
+keywords:
+  - 찬반
+  - 힘의균형
+  - 장단점
+  - 갈등
+
+use_cases:
+  - 의사결정
+  - 토론
+  - 이해관계 분석
+  - 협상
+
+origin: 창의적 문제해결
+---
 # Tug-of-War (Force Field Analysis) - 힘의 장 분석
 
 ## 개요

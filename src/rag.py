@@ -47,7 +47,7 @@ class RAGEngine:
         knowledge_dir = current_dir / "knowledge"
         if knowledge_dir.exists():
             return str(knowledge_dir)
-        env_path = os.environ.get("SOCRATIC_KNOWLEDGE_PATH")
+        env_path = os.environ.get("INNOVATION_SOCRATIC_KNOWLEDGE_PATH")
         if env_path and Path(env_path).exists():
             return env_path
         return str(knowledge_dir)

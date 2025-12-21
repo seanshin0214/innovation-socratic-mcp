@@ -43,7 +43,7 @@
 
 ```json
 {
-  "name": "socratic-thinking-mcp",
+  "name": "innovation-socratic-mcp",
   "version": "2.0.0",
   "mcp_name": "socrates",
   "tool_name": "socratic_thinking",
@@ -144,10 +144,10 @@
 
 ### 3. GitHub 공개 (선택)
 ```bash
-cd C:\Users\sshin\Documents\socratic-thinking-mcp
+cd C:\Users\sshin\Documents\innovation-socratic-mcp
 
 # GitHub 레포 생성 후
-git remote add origin https://github.com/yourusername/socratic-thinking-mcp.git
+git remote add origin https://github.com/yourusername/innovation-socratic-mcp.git
 git branch -M main
 git push -u origin main
 ```

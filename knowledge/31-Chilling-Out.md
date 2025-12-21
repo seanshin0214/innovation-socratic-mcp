@@ -1,3 +1,35 @@
+---
+id: chilling-out
+title: Chilling Out (휴식과 성찰)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: beginner
+time_required: 5-30분
+group_size: 1명
+
+related_methods:
+  - 33-Three-Bs
+  - 36-Dreamscape
+  - 37-Da-Vinci-Technique
+
+complementary_methods:
+  - 08-Thought-Experiments
+  - 71-Reframing
+
+keywords:
+  - 휴식
+  - 이완
+  - 무의식
+  - 창의성
+
+use_cases:
+  - 창의적 막힘
+  - 스트레스 해소
+  - 통찰
+  - 재충전
+
+origin: 창의성 연구
+---
 # Chilling Out (Relaxation) - 이완 기법
 
 ## 개요

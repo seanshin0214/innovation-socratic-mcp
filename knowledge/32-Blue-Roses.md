@@ -1,3 +1,35 @@
+---
+id: blue-roses
+title: Blue Roses (파란 장미)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: intermediate
+time_required: 20-40분
+group_size: 1-6명
+
+related_methods:
+  - 35-Stone-Soup
+  - 36-Dreamscape
+  - 68-Forced-Connections
+
+complementary_methods:
+  - 71-Reframing
+  - 08-Thought-Experiments
+
+keywords:
+  - 불가능
+  - 상상
+  - 제약 제거
+  - 이상적
+
+use_cases:
+  - 혁신
+  - 비전 수립
+  - 제약 탈피
+  - 창의적 도전
+
+origin: 창의적 사고 기법
+---
 # Blue Roses (Intuition) - 직관 활용 기법
 
 ## 개요

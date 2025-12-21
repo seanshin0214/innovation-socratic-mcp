@@ -1,3 +1,35 @@
+---
+id: false-faces-reversal
+title: False Faces / Reversal (역발상)
+category: creative_divergent
+category_kr: 창의적 발산
+difficulty: intermediate
+time_required: 20-40분
+group_size: 1-10명
+
+related_methods:
+  - 56-Reverse-Brainstorming
+  - 18-Worst-Possible-Idea
+  - 25-SCAMPER
+
+complementary_methods:
+  - 71-Reframing
+  - 49-Six-Thinking-Hats
+
+keywords:
+  - 역발상
+  - 반전
+  - 가정 뒤집기
+  - 새로운 관점
+
+use_cases:
+  - 고착 탈피
+  - 혁신
+  - 문제 재정의
+  - 창의적 해결
+
+origin: Creative Problem Solving
+---
 # False Faces (Reversal) - 역발상 기법
 
 ## 개요

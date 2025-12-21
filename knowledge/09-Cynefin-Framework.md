@@ -1,3 +1,37 @@
+---
+id: cynefin-framework
+title: Cynefin Framework (키네빈)
+category: problem_solving
+category_kr: 문제해결
+difficulty: advanced
+time_required: 30-60분
+group_size: 3-10명
+
+related_methods:
+  - 14-Theory-of-Constraints-TOC
+  - 15-Causal-Loop-Diagrams
+  - 70-Scenario-Planning
+
+complementary_methods:
+  - 52-SWOT-Analysis
+  - 67-Decision-Matrix
+
+keywords:
+  - 복잡성
+  - 의사결정
+  - Simple
+  - Complicated
+  - Complex
+  - Chaotic
+
+use_cases:
+  - 문제 유형 진단
+  - 전략 선택
+  - 조직 관리
+  - 위기 대응
+
+origin: Dave Snowden
+---
 # Cynefin Framework
 
 ## Category

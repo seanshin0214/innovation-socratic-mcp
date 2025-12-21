@@ -1,3 +1,35 @@
+---
+id: da-vinci-technique
+title: Da Vinci Technique (다빈치 기법)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: intermediate
+time_required: 30-60분
+group_size: 1-4명
+
+related_methods:
+  - 38-Dali-Technique
+  - 36-Dreamscape
+  - 54-Mind-Mapping
+
+complementary_methods:
+  - 08-Thought-Experiments
+  - 72-Concept-Map
+
+keywords:
+  - 시각화
+  - 스케치
+  - 다학제
+  - 관찰
+
+use_cases:
+  - 시각적 사고
+  - 문제 탐구
+  - 창의적 연결
+  - 발명
+
+origin: Leonardo da Vinci
+---
 # Da Vinci's Technique (다빈치 기법)
 
 ## 개요

@@ -1,3 +1,35 @@
+---
+id: murder-board
+title: Murder Board (머더 보드)
+category: analysis_convergent
+category_kr: 분석/수렴
+difficulty: advanced
+time_required: 1-2시간
+group_size: 5-12명
+
+related_methods:
+  - 48-Pre-Mortem
+  - 07-Assumption-Testing
+  - 29-Phoenix-Checklist
+
+complementary_methods:
+  - 49-Six-Thinking-Hats
+  - 52-SWOT-Analysis
+
+keywords:
+  - 비판
+  - 검증
+  - 약점발견
+  - 스트레스테스트
+
+use_cases:
+  - 제안서 검토
+  - 전략 검증
+  - 투자 심사
+  - 프레젠테이션 준비
+
+origin: 미국 군대, NASA
+---
 # Murder Board (악마의 변호인 기법)
 
 ## 개요

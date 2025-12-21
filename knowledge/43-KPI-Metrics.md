@@ -1,58 +1,36 @@
 ---
 id: kpi-metrics
 title: KPI & Metrics (핵심성과지표)
-aliases:
-  - 핵심성과지표
-  - 성과지표
-  - 메트릭스
-  - Performance Metrics
-  - 측정지표
-category: business_strategy
-subcategory: performance_management
-
-use_cases:
-  - 비즈니스 성과 측정
-  - 목표 달성도 추적
-  - 의사결정 근거 제공
-  - 팀/개인 성과 평가
-  - 문제 조기 발견
-  - 벤치마킹
-
-keywords:
-  - 성과측정
-  - 지표관리
-  - 대시보드
-  - 데이터분석
-  - ROI
-  - 전환율
-  - 리텐션
-  - NPS
-  - CAC
-  - LTV
-
+category: strategy_planning
+category_kr: 전략/계획
 difficulty: intermediate
-time_required: 2-4시간 (설계), 주간 30분 (모니터링)
-group_size: 팀/조직
+time_required: 1-2시간
+group_size: 2-10명
 
 related_methods:
-  - 41-OKR  # 목표와 연계
-  - 42-Agile-Framework  # 스프린트 메트릭
-  - 29-Phoenix-Checklist  # 지표 검증
-  - 26-Tug-of-War  # 성과 요인 분석
+  - 41-OKR
+  - 16-Critical-Success-Factors
+  - 19-Balanced-Scorecard
 
-prerequisites:
-  - 비즈니스 목표 명확화
-  - 데이터 수집 시스템
-  - 분석 도구 접근
+complementary_methods:
+  - 10-Impact-Effort-Matrix
+  - 67-Decision-Matrix
 
-output_type:
-  - KPI 대시보드
-  - 성과 보고서
-  - 트렌드 분석
+keywords:
+  - 지표
+  - 측정
+  - 성과
+  - 대시보드
+  - 모니터링
 
-origin: Peter Drucker, Management by Objectives
+use_cases:
+  - 성과 측정
+  - 의사결정
+  - 개선 추적
+  - 보고
+
+origin: 경영학, 품질관리
 ---
-
 # KPI & Metrics (핵심성과지표)
 
 ## 개요

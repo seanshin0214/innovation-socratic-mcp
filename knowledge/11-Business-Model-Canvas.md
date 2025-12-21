@@ -1,3 +1,35 @@
+---
+id: business-model-canvas
+title: Business Model Canvas (비즈니스 모델 캔버스)
+category: strategy_planning
+category_kr: 전략/계획
+difficulty: intermediate
+time_required: 1-3시간
+group_size: 3-8명
+
+related_methods:
+  - 12-Value-Proposition-Canvas
+  - 13-Lean-Canvas
+  - 05-Jobs-To-Be-Done
+
+complementary_methods:
+  - 52-SWOT-Analysis
+  - 62-PESTLE-Analysis
+
+keywords:
+  - 비즈니스모델
+  - 가치제안
+  - 고객세그먼트
+  - 수익모델
+
+use_cases:
+  - 신사업 기획
+  - 스타트업
+  - 비즈니스 분석
+  - 혁신
+
+origin: Alexander Osterwalder
+---
 # Business Model Canvas
 
 ## Category

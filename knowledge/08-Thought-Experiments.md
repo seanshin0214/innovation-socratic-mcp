@@ -1,3 +1,35 @@
+---
+id: thought-experiments
+title: Thought Experiments (사고 실험)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: advanced
+time_required: 30-60분
+group_size: 1-6명
+
+related_methods:
+  - 71-Reframing
+  - 35-Stone-Soup
+  - 36-Dreamscape
+
+complementary_methods:
+  - 70-Scenario-Planning
+  - 49-Six-Thinking-Hats
+
+keywords:
+  - 상상
+  - 가설
+  - what-if
+  - 철학적
+
+use_cases:
+  - 이론 검토
+  - 윤리적 판단
+  - 혁신
+  - 복잡한 문제
+
+origin: Albert Einstein, Philosophy
+---
 # Thought Experiments
 
 ## Category

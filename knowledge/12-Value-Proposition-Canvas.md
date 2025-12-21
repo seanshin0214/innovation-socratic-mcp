@@ -1,3 +1,36 @@
+---
+id: value-proposition-canvas
+title: Value Proposition Canvas (가치제안 캔버스)
+category: innovation_design
+category_kr: 혁신/디자인
+difficulty: intermediate
+time_required: 1-2시간
+group_size: 2-6명
+
+related_methods:
+  - 11-Business-Model-Canvas
+  - 05-Jobs-To-Be-Done
+  - 44-Design-Thinking
+
+complementary_methods:
+  - 17-Stakeholder-Mapping
+  - 52-SWOT-Analysis
+
+keywords:
+  - 가치제안
+  - 고객
+  - Pain
+  - Gain
+  - Product-Market Fit
+
+use_cases:
+  - 제품 설계
+  - 마케팅
+  - 고객 이해
+  - 차별화
+
+origin: Alexander Osterwalder
+---
 # Value Proposition Canvas
 
 ## Category

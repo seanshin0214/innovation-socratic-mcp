@@ -1,3 +1,35 @@
+---
+id: think-bubbles
+title: Think Bubbles (생각 거품)
+category: visualization
+category_kr: 시각화
+difficulty: beginner
+time_required: 15-30분
+group_size: 1-8명
+
+related_methods:
+  - 54-Mind-Mapping
+  - 72-Concept-Map
+  - 28-Lotus-Blossom
+
+complementary_methods:
+  - 73-Brainstorming
+  - 59-Affinity-Diagram
+
+keywords:
+  - 마인드맵
+  - 시각화
+  - 연상
+  - 아이디어
+
+use_cases:
+  - 아이디어 발산
+  - 노트 정리
+  - 브레인스토밍
+  - 학습
+
+origin: Tony Buzan 영향
+---
 # Think Bubbles (Mind Mapping) - 마인드맵 기법
 
 ## 개요

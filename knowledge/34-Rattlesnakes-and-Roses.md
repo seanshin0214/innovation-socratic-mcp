@@ -1,3 +1,36 @@
+---
+id: rattlesnakes-and-roses
+title: Rattlesnakes and Roses (뱀과 장미)
+category: analysis_convergent
+category_kr: 분석/수렴
+difficulty: beginner
+time_required: 15-30분
+group_size: 2-10명
+
+related_methods:
+  - 55-PMI-Analysis
+  - 26-Tug-of-War
+  - 52-SWOT-Analysis
+
+complementary_methods:
+  - 53-Force-Field-Analysis
+  - 67-Decision-Matrix
+
+keywords:
+  - 위험
+  - 기회
+  - 긍정
+  - 부정
+  - 균형
+
+use_cases:
+  - 리스크 분석
+  - 기회 발견
+  - 균형 잡힌 평가
+  - 의사결정
+
+origin: 창의적 문제해결
+---
 # Rattlesnakes and Roses (Analogies) - 유추 사고 기법
 
 ## 개요

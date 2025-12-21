@@ -1,3 +1,35 @@
+---
+id: dali-technique
+title: Dali Technique (달리 기법)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: advanced
+time_required: 20-40분
+group_size: 1명
+
+related_methods:
+  - 36-Dreamscape
+  - 37-Da-Vinci-Technique
+  - 33-Three-Bs
+
+complementary_methods:
+  - 31-Chilling-Out
+  - 68-Forced-Connections
+
+keywords:
+  - 수면
+  - 최면
+  - 무의식
+  - 초현실
+
+use_cases:
+  - 창의적 영감
+  - 무의식 활용
+  - 예술
+  - 돌파구
+
+origin: Salvador Dali
+---
 # Dali's Technique (달리 기법)
 
 ## 개요

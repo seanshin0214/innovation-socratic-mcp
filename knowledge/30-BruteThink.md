@@ -1,3 +1,35 @@
+---
+id: brutethink
+title: BruteThink (무차별 사고)
+category: creative_divergent
+category_kr: 창의적 발산
+difficulty: beginner
+time_required: 20-40분
+group_size: 1-10명
+
+related_methods:
+  - 68-Forced-Connections
+  - 25-SCAMPER
+  - 61-Synectics
+
+complementary_methods:
+  - 73-Brainstorming
+  - 71-Reframing
+
+keywords:
+  - 무작위
+  - 연결
+  - 자극
+  - 강제연상
+
+use_cases:
+  - 창의적 돌파
+  - 고착 탈피
+  - 새로운 관점
+  - 아이디어 생성
+
+origin: Edward de Bono
+---
 # BruteThink (Random Stimulation) - 무작위 자극 기법
 
 ## 개요

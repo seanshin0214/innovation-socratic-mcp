@@ -1,55 +1,36 @@
 ---
-id: value-proposition-canvas
+id: value-proposition-canvas-detailed
 title: Value Proposition Canvas (가치제안 캔버스)
-aliases:
-  - 가치제안캔버스
-  - VPC
-  - 가치맵
-  - 고객프로필
-category: business_strategy
-subcategory: business_model
+category: innovation_design
+category_kr: 혁신/디자인
+difficulty: intermediate
+time_required: 1-2시간
+group_size: 2-6명
 
-use_cases:
-  - 제품-시장 적합성 검증
-  - 신제품 기획
-  - 마케팅 메시지 개발
-  - 경쟁 우위 분석
-  - 고객 세그먼트 이해
-  - 비즈니스 모델 설계
+related_methods:
+  - 11-Business-Model-Canvas
+  - 05-Jobs-To-Be-Done
+  - 44-Design-Thinking
+
+complementary_methods:
+  - 17-Stakeholder-Mapping
+  - 52-SWOT-Analysis
 
 keywords:
   - 가치제안
-  - 고객이해
-  - 페인포인트
-  - 이득
-  - 비즈니스모델
-  - 스트라티자이저
-  - PMF
-  - 고객과업
+  - 고객
+  - Pain
+  - Gain
+  - Product-Market Fit
 
-difficulty: intermediate
-time_required: 2-4시간 (워크샵)
-group_size: 팀 (3-6명)
+use_cases:
+  - 제품 설계
+  - 마케팅
+  - 고객 이해
+  - 차별화
 
-related_methods:
-  - 45-Jobs-to-be-Done  # 고객 과업 분석
-  - 44-Design-Thinking  # 공감 단계
-  - 47-Lean-Canvas  # 비즈니스 모델
-  - 29-Phoenix-Checklist  # 가정 검증
-
-prerequisites:
-  - 타겟 고객 정의
-  - 고객 인터뷰 데이터
-  - 경쟁 분석
-
-output_type:
-  - 가치제안 캔버스
-  - Fit 분석
-  - 액션 플랜
-
-origin: Alexander Osterwalder, Strategyzer
+origin: Alexander Osterwalder
 ---
-
 # Value Proposition Canvas (가치제안 캔버스)
 
 ## 개요

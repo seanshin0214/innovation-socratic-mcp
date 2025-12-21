@@ -1,55 +1,35 @@
 ---
 id: pre-mortem
-title: Pre-Mortem Analysis (사전부검)
-aliases:
-  - 프리모템
-  - 사전부검
-  - 실패상상
-  - Prospective Hindsight
-category: decision_making
-subcategory: risk_analysis
-
-use_cases:
-  - 프로젝트 시작 전 리스크 식별
-  - 의사결정 품질 향상
-  - 팀 우려사항 도출
-  - 실패 예방 계획 수립
-  - 집단사고 방지
-  - 자신감 과잉 방지
-
-keywords:
-  - 리스크분석
-  - 실패예방
-  - 사전분석
-  - 게리클라인
-  - 인지편향
-  - 의사결정
-  - 프로젝트관리
-  - 시나리오분석
-
-difficulty: beginner
-time_required: 30분-1시간
-group_size: 팀 (4-10명)
+title: Pre-Mortem (사전 부검)
+category: analysis_convergent
+category_kr: 분석/수렴
+difficulty: intermediate
+time_required: 30-60분
+group_size: 4-12명
 
 related_methods:
-  - 40-Murder-Board  # 아이디어 공격
-  - 26-Tug-of-War  # 추진/저항력 분석
-  - 29-Phoenix-Checklist  # 질문 프레임워크
-  - 36-Dreamscape  # 미래 상상
+  - 07-Assumption-Testing
+  - 40-Murder-Board
+  - 70-Scenario-Planning
 
-prerequisites:
-  - 구체적 계획 또는 결정
-  - 팀 구성
-  - 개방적 분위기
+complementary_methods:
+  - 52-SWOT-Analysis
+  - 53-Force-Field-Analysis
 
-output_type:
-  - 잠재적 실패 요인 목록
-  - 대응 계획
-  - 모니터링 포인트
+keywords:
+  - 리스크
+  - 실패예측
+  - 예방
+  - 시나리오
 
-origin: Gary Klein, Cognitive Psychology
+use_cases:
+  - 프로젝트 계획
+  - 리스크 관리
+  - 의사결정
+  - 팀 정렬
+
+origin: Gary Klein
 ---
-
 # Pre-Mortem Analysis (사전부검)
 
 ## 개요

@@ -1,3 +1,35 @@
+---
+id: not-kansas
+title: Not Kansas (캔자스가 아냐)
+category: creative_divergent
+category_kr: 창의적 발산
+difficulty: intermediate
+time_required: 20-40분
+group_size: 2-10명
+
+related_methods:
+  - 71-Reframing
+  - 68-Forced-Connections
+  - 61-Synectics
+
+complementary_methods:
+  - 08-Thought-Experiments
+  - 70-Scenario-Planning
+
+keywords:
+  - 맥락전환
+  - 다른세계
+  - 은유
+  - 새로운관점
+
+use_cases:
+  - 관점 전환
+  - 창의적 해결
+  - 고착 탈피
+  - 혁신
+
+origin: 오즈의 마법사 (은유)
+---
 # Not Kansas (Guided Imagery) - 유도 심상 기법
 
 ## 개요

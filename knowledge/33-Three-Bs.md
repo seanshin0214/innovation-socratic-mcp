@@ -1,3 +1,36 @@
+---
+id: three-bs
+title: Three B's (세 가지 B)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: beginner
+time_required: 유동적
+group_size: 1명
+
+related_methods:
+  - 31-Chilling-Out
+  - 36-Dreamscape
+  - 37-Da-Vinci-Technique
+
+complementary_methods:
+  - 08-Thought-Experiments
+  - 71-Reframing
+
+keywords:
+  - Bed
+  - Bath
+  - Bus
+  - 무의식
+  - 통찰
+
+use_cases:
+  - 창의적 휴식
+  - 문제 잠재화
+  - 통찰 대기
+  - 이완
+
+origin: 창의성 연구 (역사적 관찰)
+---
 # Three B's (Incubation) - 인큐베이션 기법
 
 ## 개요

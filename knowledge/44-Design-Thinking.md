@@ -1,60 +1,37 @@
 ---
 id: design-thinking
 title: Design Thinking (디자인 씽킹)
-aliases:
-  - 디자인사고
-  - 사용자중심설계
-  - Human-Centered Design
-  - HCD
-  - 공감디자인
-category: innovation
-subcategory: human_centered_design
+category: innovation_design
+category_kr: 혁신/디자인
+difficulty: intermediate
+time_required: 1-5일
+group_size: 4-8명
 
-use_cases:
-  - 신제품/서비스 개발
-  - 사용자 경험 개선
-  - 복잡한 문제 해결
-  - 혁신 프로젝트
-  - 조직 변화 설계
-  - 고객 니즈 발굴
+related_methods:
+  - 05-Jobs-To-Be-Done
+  - 12-Value-Proposition-Canvas
+  - 03-Appreciative-Inquiry
+
+complementary_methods:
+  - 73-Brainstorming
+  - 25-SCAMPER
 
 keywords:
   - 공감
-  - 프로토타입
-  - 사용자리서치
+  - 정의
   - 아이디에이션
+  - 프로토타입
   - 테스트
-  - 반복
-  - 사용자경험
-  - 인간중심
-  - 스탠포드
   - IDEO
 
-difficulty: intermediate
-time_required: 1-5일 (워크샵), 수주~수개월 (전체 프로젝트)
-group_size: 팀 (4-8명 권장)
-
-related_methods:
-  - 45-Jobs-to-be-Done  # 고객 니즈 프레임워크
-  - 24-Think-Bubbles  # 마인드맵
-  - 35-Stone-Soup  # 환상 질문
-  - 25-SCAMPER  # 아이디어 발상
-
-prerequisites:
-  - 사용자 접근 가능
-  - 프로토타이핑 재료/도구
-  - 개방적 마인드셋
-  - 실패 허용 문화
-
-output_type:
-  - 사용자 인사이트
-  - 페르소나
-  - 프로토타입
-  - 테스트 결과
+use_cases:
+  - 제품 개발
+  - 서비스 디자인
+  - 혁신
+  - 고객 경험
 
 origin: Stanford d.school, IDEO
 ---
-
 # Design Thinking (디자인 씽킹)
 
 ## 개요

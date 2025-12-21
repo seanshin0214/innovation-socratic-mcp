@@ -1,3 +1,35 @@
+---
+id: lotus-blossom
+title: Lotus Blossom (연꽃 기법)
+category: visualization
+category_kr: 시각화
+difficulty: intermediate
+time_required: 30-60분
+group_size: 1-8명
+
+related_methods:
+  - 54-Mind-Mapping
+  - 24-Think-Bubbles
+  - 27-Idea-Box
+
+complementary_methods:
+  - 73-Brainstorming
+  - 72-Concept-Map
+
+keywords:
+  - 확장
+  - 8방향
+  - 구조화
+  - 심층 탐색
+
+use_cases:
+  - 아이디어 확장
+  - 주제 탐구
+  - 계획 수립
+  - 문제 분해
+
+origin: Yasuo Matsumura (일본)
+---
 # Lotus Blossom (연꽃 기법)
 
 ## 개요

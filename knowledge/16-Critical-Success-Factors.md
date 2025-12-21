@@ -1,3 +1,35 @@
+---
+id: critical-success-factors
+title: Critical Success Factors (핵심 성공 요인)
+category: strategy_planning
+category_kr: 전략/계획
+difficulty: intermediate
+time_required: 1-2시간
+group_size: 3-10명
+
+related_methods:
+  - 41-OKR
+  - 43-KPI-Metrics
+  - 19-Balanced-Scorecard
+
+complementary_methods:
+  - 52-SWOT-Analysis
+  - 10-Impact-Effort-Matrix
+
+keywords:
+  - 성공요인
+  - 전략
+  - KPI
+  - 목표
+
+use_cases:
+  - 전략 수립
+  - 성과 관리
+  - 프로젝트 계획
+  - 경영 분석
+
+origin: D. Ronald Daniel, John Rockart
+---
 # Critical Success Factors (CSF)
 
 ## Category

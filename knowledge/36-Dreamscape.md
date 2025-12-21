@@ -1,3 +1,35 @@
+---
+id: dreamscape
+title: Dreamscape (꿈 풍경)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: intermediate
+time_required: 20-40분
+group_size: 1-6명
+
+related_methods:
+  - 38-Dali-Technique
+  - 37-Da-Vinci-Technique
+  - 35-Stone-Soup
+
+complementary_methods:
+  - 08-Thought-Experiments
+  - 71-Reframing
+
+keywords:
+  - 꿈
+  - 상상
+  - 무의식
+  - 시각화
+
+use_cases:
+  - 창의적 영감
+  - 비전 탐색
+  - 무의식 활용
+  - 예술적 발상
+
+origin: 초현실주의 영향
+---
 # Dreamscape (꿈 활용 기법)
 
 ## 개요

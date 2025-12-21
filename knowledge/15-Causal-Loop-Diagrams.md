@@ -1,3 +1,35 @@
+---
+id: causal-loop-diagrams
+title: Causal Loop Diagrams (인과 루프 다이어그램)
+category: visualization
+category_kr: 시각화
+difficulty: advanced
+time_required: 1-2시간
+group_size: 2-8명
+
+related_methods:
+  - 14-Theory-of-Constraints-TOC
+  - 72-Concept-Map
+  - 74-Fishbone-Diagram
+
+complementary_methods:
+  - 09-Cynefin-Framework
+  - 70-Scenario-Planning
+
+keywords:
+  - 시스템사고
+  - 피드백 루프
+  - 강화루프
+  - 균형루프
+
+use_cases:
+  - 시스템 분석
+  - 복잡한 문제
+  - 정책 설계
+  - 조직 동학
+
+origin: Jay Forrester, Peter Senge
+---
 # Causal Loop Diagrams (Systems Mapping)
 
 ## Category

@@ -1,3 +1,35 @@
+---
+id: theory-of-constraints
+title: Theory of Constraints (제약이론)
+category: problem_solving
+category_kr: 문제해결
+difficulty: advanced
+time_required: 1-4시간
+group_size: 3-10명
+
+related_methods:
+  - 15-Causal-Loop-Diagrams
+  - 74-Fishbone-Diagram
+  - 51-Five-Whys
+
+complementary_methods:
+  - 09-Cynefin-Framework
+  - 53-Force-Field-Analysis
+
+keywords:
+  - 병목
+  - 제약
+  - 5단계
+  - 지속적 개선
+
+use_cases:
+  - 공정 개선
+  - 생산성
+  - 프로젝트 관리
+  - 조직 최적화
+
+origin: Eliyahu Goldratt
+---
 # Theory of Constraints (TOC) - Thinking Process
 
 ## Category

@@ -1,59 +1,36 @@
 ---
-id: jobs-to-be-done
-title: Jobs to be Done (JTBD)
-aliases:
-  - JTBD
-  - 할일이론
-  - 고객과업
-  - Job Theory
-  - 밀크쉐이크이론
-category: innovation
-subcategory: customer_insight
-
-use_cases:
-  - 고객 니즈 발굴
-  - 신제품 기회 발견
-  - 경쟁 분석
-  - 마케팅 메시지 개발
-  - 제품 포지셔닝
-  - 시장 세분화
-
-keywords:
-  - 고객인사이트
-  - 구매동기
-  - 진짜니즈
-  - 경쟁분석
-  - 혁신
-  - 클레이튼크리스텐슨
-  - 밀크쉐이크
-  - 기능적
-  - 감정적
-  - 사회적
-
+id: jobs-to-be-done-detailed
+title: Jobs-To-Be-Done (JTBD)
+category: innovation_design
+category_kr: 혁신/디자인
 difficulty: intermediate
-time_required: 1-2주 (인터뷰 및 분석)
-group_size: 팀 (3-5명)
+time_required: 1-3시간
+group_size: 3-8명
 
 related_methods:
-  - 44-Design-Thinking  # 공감 단계
-  - 29-Phoenix-Checklist  # 심층 질문
-  - 46-Value-Proposition-Canvas  # 가치 제안
-  - 34-Rattlesnakes-and-Roses  # 유추 활용
+  - 44-Design-Thinking
+  - 12-Value-Proposition-Canvas
+  - 11-Business-Model-Canvas
 
-prerequisites:
-  - 고객 인터뷰 접근
-  - 인터뷰 스킬
-  - 분석 프레임워크 이해
+complementary_methods:
+  - 17-Stakeholder-Mapping
+  - 52-SWOT-Analysis
 
-output_type:
-  - Job 정의서
-  - 기회 맵
-  - 경쟁 분석
-  - 혁신 방향
+keywords:
+  - 고객
+  - 니즈
+  - Job
+  - Outcome
+  - 혁신
 
-origin: Clayton Christensen, Harvard Business School
+use_cases:
+  - 제품 개발
+  - 시장 분석
+  - 고객 이해
+  - 혁신 전략
+
+origin: Clayton Christensen
 ---
-
 # Jobs to be Done (JTBD)
 
 ## 개요

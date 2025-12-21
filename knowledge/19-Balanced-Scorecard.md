@@ -1,3 +1,36 @@
+---
+id: balanced-scorecard
+title: Balanced Scorecard (균형성과표)
+category: strategy_planning
+category_kr: 전략/계획
+difficulty: advanced
+time_required: 2-4시간
+group_size: 5-15명
+
+related_methods:
+  - 41-OKR
+  - 43-KPI-Metrics
+  - 16-Critical-Success-Factors
+
+complementary_methods:
+  - 52-SWOT-Analysis
+  - 11-Business-Model-Canvas
+
+keywords:
+  - 재무
+  - 고객
+  - 내부프로세스
+  - 학습성장
+  - 전략맵
+
+use_cases:
+  - 전략 실행
+  - 성과 관리
+  - 조직 균형
+  - KPI 설계
+
+origin: Robert Kaplan, David Norton
+---
 # Balanced Scorecard
 
 ## Category

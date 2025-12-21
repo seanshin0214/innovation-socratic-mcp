@@ -1,3 +1,35 @@
+---
+id: socratic-questioning
+title: Socratic Questioning (소크라테스식 질문)
+category: question_inquiry
+category_kr: 질문/탐구
+difficulty: advanced
+time_required: 30-60분
+group_size: 2-6명
+
+related_methods:
+  - 01-Question-Storming
+  - 51-Five-Whys
+  - 02-Kipling-Method
+
+complementary_methods:
+  - 07-Assumption-Testing
+  - 71-Reframing
+
+keywords:
+  - 비판적 사고
+  - 논리
+  - 가정 검증
+  - 깊은 질문
+
+use_cases:
+  - 비판적 분석
+  - 교육
+  - 코칭
+  - 논증 검토
+
+origin: Socrates
+---
 # Socratic Questioning (6 Types)
 
 ## Category

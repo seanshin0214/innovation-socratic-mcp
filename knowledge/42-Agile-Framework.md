@@ -1,60 +1,36 @@
 ---
 id: agile-framework
-title: Agile Framework (애자일 프레임워크)
-aliases:
-  - 애자일
-  - 스크럼
-  - Scrum
-  - 칸반
-  - Kanban
-  - 스프린트
-category: business_strategy
-subcategory: project_management
-
-use_cases:
-  - 소프트웨어 개발 프로젝트
-  - 불확실성 높은 프로젝트
-  - 빠른 시장 출시가 필요할 때
-  - 고객 피드백 반복 반영
-  - 팀 협업 강화
-  - 지속적 개선 문화 구축
-
-keywords:
-  - 반복개발
-  - 스프린트
-  - 백로그
-  - 데일리스탠드업
-  - 회고
-  - MVP
-  - 점진적개발
-  - 자기조직화
-  - 크로스펑셔널
-  - 애자일선언문
-
+title: Agile Framework (애자일)
+category: strategy_planning
+category_kr: 전략/계획
 difficulty: intermediate
-time_required: 2주 스프린트 기준, 일일 15분 + 주간 2-4시간
-group_size: 팀 (5-9명 권장)
+time_required: 지속적
+group_size: 5-9명 (스크럼팀)
 
 related_methods:
-  - 41-OKR  # 목표 설정
-  - 28-Lotus-Blossom  # 아이디어 확장
-  - 40-Murder-Board  # 스프린트 리뷰
-  - 23-Cherry-Split  # 작업 분해
+  - 13-Lean-Canvas
+  - 41-OKR
+  - 44-Design-Thinking
 
-prerequisites:
-  - 팀의 변화 수용 의지
-  - 경영진 지원
-  - 고객/이해관계자 참여 가능
+complementary_methods:
+  - 48-Pre-Mortem
+  - 63-World-Cafe
 
-output_type:
-  - 작동하는 제품 증분
-  - 백로그
-  - 번다운 차트
-  - 회고 액션 아이템
+keywords:
+  - 스크럼
+  - 칸반
+  - 스프린트
+  - 반복
+  - 적응
 
-origin: Agile Manifesto (2001), 17 software developers
+use_cases:
+  - 소프트웨어 개발
+  - 프로젝트 관리
+  - 제품 개발
+  - 팀 운영
+
+origin: Agile Manifesto (2001)
 ---
-
 # Agile Framework (애자일 프레임워크)
 
 ## 개요

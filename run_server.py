@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Launcher script for socratic-thinking MCP server"""
+"""Launcher script for innovation-socratic MCP server"""
 import sys
 import os
 

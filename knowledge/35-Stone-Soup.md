@@ -1,3 +1,35 @@
+---
+id: stone-soup
+title: Stone Soup (돌 수프)
+category: intuitive_creative
+category_kr: 직관적 사고
+difficulty: intermediate
+time_required: 30-60분
+group_size: 3-10명
+
+related_methods:
+  - 32-Blue-Roses
+  - 36-Dreamscape
+  - 03-Appreciative-Inquiry
+
+complementary_methods:
+  - 71-Reframing
+  - 70-Scenario-Planning
+
+keywords:
+  - 이상적
+  - 환상
+  - 비전
+  - 협력
+
+use_cases:
+  - 비전 수립
+  - 팀 빌딩
+  - 창의적 돌파
+  - 영감
+
+origin: 민담 기반 창의 기법
+---
 # Stone Soup (Fantasy Questions) - 환상 질문 기법
 
 ## 개요

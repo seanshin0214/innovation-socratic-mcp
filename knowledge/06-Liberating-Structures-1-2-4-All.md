@@ -1,3 +1,35 @@
+---
+id: liberating-structures
+title: Liberating Structures 1-2-4-All
+category: group_collaboration
+category_kr: 그룹/협업
+difficulty: beginner
+time_required: 15-30분
+group_size: 4-100명
+
+related_methods:
+  - 63-World-Cafe
+  - 58-Brainwriting-635
+  - 73-Brainstorming
+
+complementary_methods:
+  - 59-Affinity-Diagram
+  - 49-Six-Thinking-Hats
+
+keywords:
+  - 참여
+  - 구조화 토론
+  - 민주적
+  - 포용
+
+use_cases:
+  - 대규모 회의
+  - 팀 참여
+  - 아이디어 수렴
+  - 합의 도출
+
+origin: Keith McCandless, Henri Lipmanowicz
+---
 # Liberating Structures: 1-2-4-All
 
 ## Category

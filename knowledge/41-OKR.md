@@ -1,57 +1,36 @@
 ---
 id: okr
-title: OKR (Objectives and Key Results)
-aliases:
-  - 목표와 핵심결과
-  - OKRs
-  - 오케이알
-  - 목표설정
-category: business_strategy
-subcategory: goal_setting
-
-use_cases:
-  - 조직 목표 설정 및 정렬
-  - 분기/연간 계획 수립
-  - 팀/개인 성과 관리
-  - 전략 실행력 강화
-  - 우선순위 명확화
-  - 조직 투명성 향상
-
-keywords:
-  - 목표설정
-  - 전략실행
-  - 성과관리
-  - 정렬
-  - 집중
-  - 측정
-  - 분기목표
-  - 조직문화
-  - 스타트업
-  - 구글
-
+title: OKR (목표와 핵심결과)
+category: strategy_planning
+category_kr: 전략/계획
 difficulty: intermediate
-time_required: 2-4시간 (초기 설정), 주간 15분 (체크인)
-group_size: 개인/팀/조직
+time_required: 1-3시간
+group_size: 1-50명
 
 related_methods:
-  - 42-Agile-Framework  # 빠른 실행과 반복
-  - 26-Tug-of-War  # 추진력과 저항력 분석
-  - 43-KPI  # 성과 지표 측정
-  - 29-Phoenix-Checklist  # 목표 검증 질문
+  - 43-KPI-Metrics
+  - 16-Critical-Success-Factors
+  - 19-Balanced-Scorecard
 
-prerequisites:
-  - 조직/팀의 미션과 비전 이해
-  - 현재 상태 분석
-  - 우선순위 결정 능력
+complementary_methods:
+  - 42-Agile-Framework
+  - 10-Impact-Effort-Matrix
 
-output_type:
-  - 목표 문서
-  - 핵심결과 지표
-  - 진척도 대시보드
+keywords:
+  - 목표
+  - 핵심결과
+  - 정렬
+  - 투명성
+  - 구글
 
-origin: Intel (Andy Grove), Google
+use_cases:
+  - 목표 설정
+  - 성과 관리
+  - 조직 정렬
+  - 분기 계획
+
+origin: Andy Grove (Intel), John Doerr
 ---
-
 # OKR (Objectives and Key Results) - 목표와 핵심결과
 
 ## 개요

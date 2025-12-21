@@ -1,3 +1,35 @@
+---
+id: stakeholder-mapping
+title: Stakeholder Mapping (이해관계자 맵핑)
+category: analysis_convergent
+category_kr: 분석/수렴
+difficulty: intermediate
+time_required: 30-60분
+group_size: 2-8명
+
+related_methods:
+  - 52-SWOT-Analysis
+  - 53-Force-Field-Analysis
+  - 62-PESTLE-Analysis
+
+complementary_methods:
+  - 05-Jobs-To-Be-Done
+  - 44-Design-Thinking
+
+keywords:
+  - 이해관계자
+  - Power-Interest
+  - 영향력
+  - 커뮤니케이션
+
+use_cases:
+  - 프로젝트 관리
+  - 변화 관리
+  - 정치적 분석
+  - 협상
+
+origin: R. Edward Freeman
+---
 # Stakeholder Mapping (Power-Interest Grid)
 
 ## Category

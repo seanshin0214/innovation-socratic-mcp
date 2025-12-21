@@ -1,3 +1,35 @@
+---
+id: cherry-split
+title: Cherry Split (체리 분할)
+category: structured_thinking
+category_kr: 구조화 사고
+difficulty: beginner
+time_required: 15-30분
+group_size: 1-8명
+
+related_methods:
+  - 22-Slice-and-Dice
+  - 69-MECE
+  - 59-Affinity-Diagram
+
+complementary_methods:
+  - 54-Mind-Mapping
+  - 72-Concept-Map
+
+keywords:
+  - 분류
+  - 그룹핑
+  - 우선순위
+  - 선별
+
+use_cases:
+  - 아이디어 분류
+  - 우선순위 결정
+  - 정보 정리
+  - 선택
+
+origin: 창의적 문제해결
+---
 # Cherry Split (Fractionation) - 문제 분할 기법
 
 ## 개요
