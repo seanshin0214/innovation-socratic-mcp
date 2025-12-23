@@ -48,7 +48,7 @@ htmlcov/
 .DS_Store
 Thumbs.db
 
-# Knowledge Base (stored in Supabase, not in git)
-knowledge/
+
+# (knowledge is public)
 .chromadb/
 supabase/__pycache__/

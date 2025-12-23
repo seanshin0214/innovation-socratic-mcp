@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "updated": "2024-12-22",
+  "total_tools": 74,
+  "categories": {
+    "question_inquiry": {
+      "name_kr": "질문/탐구",
+      "description": "문제를 질문을 통해 탐구하고 정의하는 도구",
+      "tools": ["01-Question-Storming", "02-Kipling-Method", "03-Appreciative-Inquiry", "04-Socratic-Questioning", "29-Phoenix-Checklist", "57-Starbursting", "65-Multi-Perspective-Questioning"]
+    },
+    "creative_divergent": {
+      "name_kr": "창의적 발산",
+      "description": "새로운 아이디어를 창출하고 발산하는 도구",
+      "tools": ["18-Worst-Possible-Idea", "21-False-Faces-Reversal", "25-SCAMPER", "27-Idea-Box", "30-BruteThink", "39-Not-Kansas", "56-Reverse-Brainstorming", "60-Morphological-Analysis", "61-Synectics", "68-Forced-Connections", "73-Brainstorming"]
+    },
+    "analysis_convergent": {
+      "name_kr": "분석/수렴",
+      "description": "정보를 분석하고 수렴하여 결론을 도출하는 도구",
+      "tools": ["17-Stakeholder-Mapping", "26-Tug-of-War", "34-Rattlesnakes-and-Roses", "40-Murder-Board", "48-Pre-Mortem", "52-SWOT-Analysis", "53-Force-Field-Analysis", "62-PESTLE-Analysis"]
+    },
+    "strategy_planning": {
+      "name_kr": "전략/계획",
+      "description": "전략을 수립하고 계획을 세우는 도구",
+      "tools": ["11-Business-Model-Canvas", "13-Lean-Canvas", "16-Critical-Success-Factors", "19-Balanced-Scorecard", "41-OKR", "42-Agile-Framework", "43-KPI-Metrics", "70-Scenario-Planning"]
+    },
+    "problem_solving": {
+      "name_kr": "문제해결",
+      "description": "복잡한 문제를 체계적으로 해결하는 도구",
+      "tools": ["07-Assumption-Testing", "09-Cynefin-Framework", "14-Theory-of-Constraints-TOC", "20-TRIZ-Contradiction-Matrix", "49-Six-Thinking-Hats", "71-Reframing"]
+    },
+    "innovation_design": {
+      "name_kr": "혁신/디자인",
+      "description": "혁신적 제품/서비스를 설계하는 도구",
+      "tools": ["05-Jobs-To-Be-Done", "12-Value-Proposition-Canvas", "44-Design-Thinking", "45-Jobs-to-be-Done", "46-Value-Proposition-Canvas", "47-Lean-Canvas"]
+    },
+    "visualization": {
+      "name_kr": "시각화",
+      "description": "아이디어와 관계를 시각적으로 표현하는 도구",
+      "tools": ["15-Causal-Loop-Diagrams", "24-Think-Bubbles", "28-Lotus-Blossom", "54-Mind-Mapping", "72-Concept-Map"]
+    },
+    "decision_making": {
+      "name_kr": "의사결정",
+      "description": "대안을 평가하고 결정을 내리는 도구",
+      "tools": ["10-Impact-Effort-Matrix", "55-PMI-Analysis", "67-Decision-Matrix"]
+    },
+    "intuitive_creative": {
+      "name_kr": "직관적 사고",
+      "description": "직관과 무의식을 활용한 창의적 도구",
+      "tools": ["08-Thought-Experiments", "31-Chilling-Out", "32-Blue-Roses", "33-Three-Bs", "35-Stone-Soup", "36-Dreamscape", "37-Da-Vinci-Technique", "38-Dali-Technique"]
+    },
+    "group_collaboration": {
+      "name_kr": "그룹/협업",
+      "description": "그룹이 함께 사고하고 협업하는 도구",
+      "tools": ["06-Liberating-Structures-1-2-4-All", "58-Brainwriting-635", "63-World-Cafe"]
+    },
+    "structured_thinking": {
+      "name_kr": "구조화 사고",
+      "description": "정보를 체계적으로 구조화하는 도구",
+      "tools": ["22-Slice-and-Dice", "23-Cherry-Split", "59-Affinity-Diagram", "64-Thinking-Tools-Guide", "66-Questions-Tools-Integration-Guide", "69-MECE"]
+    },
+    "root_cause": {
+      "name_kr": "근본원인 분석",
+      "description": "문제의 근본 원인을 분석하는 도구",
+      "tools": ["50-Fishbone-Diagram", "51-Five-Whys", "74-Fishbone-Diagram"]
+    }
+  },
+  "clusters": [
+    {"name": "질문 기반 탐구", "core": "01-Question-Storming", "members": ["02-Kipling-Method", "04-Socratic-Questioning", "29-Phoenix-Checklist", "57-Starbursting"]},
+    {"name": "창의적 역발상", "core": "56-Reverse-Brainstorming", "members": ["18-Worst-Possible-Idea", "21-False-Faces-Reversal", "71-Reframing"]},
+    {"name": "브레인스토밍 계열", "core": "73-Brainstorming", "members": ["25-SCAMPER", "58-Brainwriting-635", "27-Idea-Box", "68-Forced-Connections"]},
+    {"name": "비즈니스 캔버스", "core": "11-Business-Model-Canvas", "members": ["12-Value-Proposition-Canvas", "13-Lean-Canvas", "05-Jobs-To-Be-Done"]},
+    {"name": "근본원인 분석", "core": "74-Fishbone-Diagram", "members": ["51-Five-Whys", "14-Theory-of-Constraints-TOC", "15-Causal-Loop-Diagrams"]},
+    {"name": "전략 분석", "core": "52-SWOT-Analysis", "members": ["62-PESTLE-Analysis", "17-Stakeholder-Mapping", "53-Force-Field-Analysis"]},
+    {"name": "성과 관리", "core": "41-OKR", "members": ["43-KPI-Metrics", "16-Critical-Success-Factors", "19-Balanced-Scorecard"]},
+    {"name": "시각화 도구", "core": "54-Mind-Mapping", "members": ["72-Concept-Map", "28-Lotus-Blossom", "24-Think-Bubbles", "59-Affinity-Diagram"]},
+    {"name": "직관적 창의", "core": "36-Dreamscape", "members": ["37-Da-Vinci-Technique", "38-Dali-Technique", "33-Three-Bs", "31-Chilling-Out"]},
+    {"name": "의사결정", "core": "67-Decision-Matrix", "members": ["10-Impact-Effort-Matrix", "55-PMI-Analysis", "26-Tug-of-War"]}
+  ],
+  "workflows": {
+    "problem_solving": ["01-Question-Storming", "74-Fishbone-Diagram", "51-Five-Whys", "73-Brainstorming", "67-Decision-Matrix"],
+    "innovation": ["44-Design-Thinking", "05-Jobs-To-Be-Done", "25-SCAMPER", "12-Value-Proposition-Canvas", "48-Pre-Mortem"],
+    "strategy": ["62-PESTLE-Analysis", "52-SWOT-Analysis", "70-Scenario-Planning", "11-Business-Model-Canvas", "41-OKR"]
+  },
+  "use_case_index": {
+    "problem_definition": ["01-Question-Storming", "02-Kipling-Method", "04-Socratic-Questioning", "29-Phoenix-Checklist"],
+    "root_cause_analysis": ["51-Five-Whys", "74-Fishbone-Diagram", "14-Theory-of-Constraints-TOC"],
+    "idea_generation": ["73-Brainstorming", "25-SCAMPER", "58-Brainwriting-635", "68-Forced-Connections"],
+    "strategic_planning": ["52-SWOT-Analysis", "62-PESTLE-Analysis", "70-Scenario-Planning", "11-Business-Model-Canvas"],
+    "decision_making": ["67-Decision-Matrix", "10-Impact-Effort-Matrix", "55-PMI-Analysis"],
+    "team_collaboration": ["06-Liberating-Structures-1-2-4-All", "63-World-Cafe", "49-Six-Thinking-Hats"],
+    "innovation": ["44-Design-Thinking", "20-TRIZ-Contradiction-Matrix", "05-Jobs-To-Be-Done"],
+    "risk_assessment": ["48-Pre-Mortem", "40-Murder-Board", "07-Assumption-Testing"],
+    "goal_setting": ["41-OKR", "43-KPI-Metrics", "16-Critical-Success-Factors"]
+  }
+}
